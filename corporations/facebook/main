@@ -1,0 +1,37 @@
+############################################
+# To Completely Block Facebook
+# Add these entries below to your hosts file
+#
+# Your hosts file Location:
+# Linux, Unix and Mac OS X  -> /etc/hosts
+# Windows XP, Vista and Windows 7 ->  C:\WINDOWS\system32\drivers\etc\hosts
+# Windows 2000  -> C:\WINNT\system32\drivers\etc\hosts
+# Windows 98/ME ->  C:\WINDOWS\hosts 
+# 
+# You can edit the hosts file with any text editor
+#
+# On Windows 7, the default AV security scan will try to remove the
+# facebook.com entry; you'll need to add an exception to tell the OS
+# to keep the block listing in the hosts file and not to remove it
+#
+############################################
+
+0.0.0.0 apps.facebook.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 facebook.com
+0.0.0.0 fbcdn.com
+0.0.0.0 fbcdn.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 login.facebook.com
+0.0.0.0 s-static.ak.facebook.com
+0.0.0.0 static.ak.connect.facebook.com
+0.0.0.0 static.ak.fbcdn.net
+0.0.0.0 www.connect.facebook.net
+0.0.0.0 www.facebook.com
+0.0.0.0 www.fbcdn.com
+0.0.0.0 www.fbcdn.net
+0.0.0.0 www.graph.facebook.com
+0.0.0.0 www.login.facebook.com
+0.0.0.0 www.s-static.ak.facebook.com
+0.0.0.0 www.static.ak.connect.facebook.com
+0.0.0.0 www.static.ak.fbcdn.net
