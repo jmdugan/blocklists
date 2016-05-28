@@ -50,7 +50,6 @@
 0.0.0.0 alpha.vvv.facebook.com
 0.0.0.0 a.ns.facebook.com
 0.0.0.0 api.facebook.com
-0.0.0.0 apps.facebook.com
 0.0.0.0 atlasalpha-shv-09-frc3.facebook.com
 0.0.0.0 atlas.c10r.facebook.com
 0.0.0.0 atlasinyour-shv-05-ash3.facebook.com
@@ -313,13 +312,10 @@
 0.0.0.0 edge-snaptu-tunnel-shv-01-syd1.facebook.com
 0.0.0.0 edge-snaptu-tunnel-shv-02-cai1.facebook.com
 0.0.0.0 edge-star-shv-12-frc3.facebook.com
-0.0.0.0 facebook.com
-0.0.0.0 graph.facebook.com
 0.0.0.0 instagram.c10r.facebook.com
 0.0.0.0 l.facebook.com
 0.0.0.0 liverail.c10r.facebook.com
 0.0.0.0 lm.facebook.com
-0.0.0.0 login.facebook.com
 0.0.0.0 m.facebook.com
 0.0.0.0 mqtt.c10r.facebook.com
 0.0.0.0 mqtt.vvv.facebook.com
@@ -328,21 +324,14 @@
 0.0.0.0 research.facebook.com
 0.0.0.0 snaptu-d-shv-05-frc3.facebook.com
 0.0.0.0 snaptu-d-shv-10-frc1.facebook.com
-0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 s-static.ak.facebook.com.edgekey.net
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 star.facebook.com
 0.0.0.0 star-mini.c10r.facebook.com
-0.0.0.0 static.ak.connect.facebook.com
 0.0.0.0 static.ak.facebook.com
 0.0.0.0 static.ak.facebook.com.edgesuite.net
 0.0.0.0 staticxx.facebook.com
 0.0.0.0 webdav.facebook.com
-0.0.0.0 www.facebook.com
-0.0.0.0 www.graph.facebook.com
-0.0.0.0 www.login.facebook.com
-0.0.0.0 www.s-static.ak.facebook.com
-0.0.0.0 www.static.ak.connect.facebook.com
 0.0.0.0 z-m.c10r.facebook.com
 0.0.0.0 z-m.facebook.com
 0.0.0.0 edge-sonar-shv-01-ams2.fbcdn.net
@@ -397,7 +386,6 @@
 0.0.0.0 edge-sonar-shv-18-prn1.fbcdn.net
 0.0.0.0 external-iad3-1.xx.fbcdn.net
 0.0.0.0 external.fsjc1-2.fna.fbcdn.net
-0.0.0.0 fbcdn.net
 0.0.0.0 fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
 0.0.0.0 herningrideklub.netscontent-a-ams.xx.fbcdn.net
 0.0.0.0 ncontent.xx.fbcdn.net
@@ -546,7 +534,6 @@
 0.0.0.0 sphotos-b.xx.fbcdn.net
 0.0.0.0 sphotos.xx.fbcdn.net
 0.0.0.0 sphotosbord.xx.fbcdn.net
-0.0.0.0 static.ak.fbcdn.net
 0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 video-iad3-1.xx.fbcdn.net
 0.0.0.0 vthumb.xx.fbcdn.net
@@ -631,7 +618,6 @@
 0.0.0.0 instagram-shv-13-frc1.fbcdn.net
 0.0.0.0 instagram-shv-17-prn1.fbcdn.net
 0.0.0.0 instagram-shv-18-prn1.fbcdn.net
-0.0.0.0 instagram.c10r.facebook.com
 0.0.0.0 instagram.com
 0.0.0.0 instagramstatic-a.akamaihd.net
 0.0.0.0 instagramstatic-a.akamaihd.net.edgesuite.net
@@ -904,7 +890,6 @@
 0.0.0.0 whatsapp-cdn-shv-01-ord1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-sea1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-sjc2.fbcdn.net
-0.0.0.0 connect.facebook.net
 0.0.0.0 connect.facebook.net.edgekey.net
 0.0.0.0 ct-m-fbx.fbsbx.com
 0.0.0.0 facebook-web-clients.appspot.com
