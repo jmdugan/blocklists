@@ -31,6 +31,7 @@
 0.0.0.0 aura-11-01-snc7.facebook.com
 0.0.0.0 badge.facebook.com
 0.0.0.0 b-api.facebook.com
+0.0.0.0 beta.facebook.com
 0.0.0.0 beta-chat-01-05-ash3.facebook.com
 0.0.0.0 betanet-shv-03-atn1.facebook.com
 0.0.0.0 betanet-shv-03-lla1.facebook.com
@@ -287,8 +288,10 @@
 0.0.0.0 mqtt.c10r.facebook.com
 0.0.0.0 mqtt.vvv.facebook.com
 0.0.0.0 pixel.facebook.com
+0.0.0.0 prod.facebook.com
 0.0.0.0 profile.ak.facebook.com.edgesuite.net
 0.0.0.0 research.facebook.com
+0.0.0.0 touch.facebook.com
 0.0.0.0 snaptu-d-shv-05-frc3.facebook.com
 0.0.0.0 snaptu-d-shv-10-frc1.facebook.com
 0.0.0.0 s-static.ak.facebook.com
