@@ -7,7 +7,7 @@
 # Windows XP, Vista and Windows 7 ->  C:\WINDOWS\system32\drivers\etc\hosts
 # Windows 2000  -> C:\WINNT\system32\drivers\etc\hosts
 # Windows 98/ME ->  C:\WINDOWS\hosts 
-# 
+#
 # You can edit the hosts file with any text editor
 #
 # On Windows 7, the default AV security scan will try to remove the
@@ -908,6 +908,8 @@
 0.0.0.0 fbcdn-profile-a.akamaihd.net
 0.0.0.0 h-ct-m-fbx.fbsbx.com.online-metrix.net
 0.0.0.0 sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
+0.0.0.0 messenger.com
+0.0.0.0 m.me
 0.0.0.0 fb.com
 0.0.0.0 newsroom.fb.com
 0.0.0.0 investor.fb.com
