@@ -11,5 +11,4 @@
 0.0.0.0 blocked.cdn.mozilla.net
 0.0.0.0 tbpl.mozilla.org
 0.0.0.0 shavar.services.mozilla.com
-0.0.0.0 safebrowsing.googleapis.com
 #0.0.0.0 detectportal.firefox.com
