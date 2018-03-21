@@ -311,3 +311,4 @@
 0.0.0.0 www.static.ak.connect.facebook.com
 0.0.0.0 z-m.c10r.facebook.com
 0.0.0.0 z-m.facebook.com
+0.0.0.0 beta.facebook.com
