@@ -22,6 +22,7 @@
 0.0.0.0 fbcdn.com
 0.0.0.0 fbsbx.com
 0.0.0.0 fbcdn.net
+0.0.0.0 fr-fr.facebook.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 login.facebook.com
 0.0.0.0 s-static.ak.facebook.com
@@ -90,6 +91,7 @@
 0.0.0.0 code.facebook.com
 0.0.0.0 connect.facebook.com
 0.0.0.0 dev.vvv.facebook.com
+0.0.0.0 developers.facebook.com
 0.0.0.0 d.vvv.facebook.com
 0.0.0.0 edge-atlas-proxyprotocol-shv-01-ash5.facebook.com
 0.0.0.0 edge-atlas-proxyprotocol-shv-03-ash5.facebook.com

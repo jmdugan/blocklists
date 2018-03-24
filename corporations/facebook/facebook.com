@@ -54,6 +54,7 @@
 0.0.0.0 code.facebook.com
 0.0.0.0 connect.facebook.com
 0.0.0.0 dev.vvv.facebook.com
+0.0.0.0 developers.facebook.com
 0.0.0.0 d.vvv.facebook.com
 0.0.0.0 edge-atlas-proxyprotocol-shv-01-ash5.facebook.com
 0.0.0.0 edge-atlas-proxyprotocol-shv-03-ash5.facebook.com
@@ -278,6 +279,7 @@
 0.0.0.0 edge-snaptu-tunnel-shv-02-cai1.facebook.com
 0.0.0.0 edge-star-shv-12-frc3.facebook.com
 0.0.0.0 facebook.com
+0.0.0.0 fr-fr.facebook.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 instagram.c10r.facebook.com
 0.0.0.0 l.facebook.com
