@@ -1,0 +1,14 @@
+0.0.0.0 tiles.services.mozilla.com
+0.0.0.0 experiments.mozilla.org
+0.0.0.0 telemetry.mozilla.org
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 telemetry-experiment.cdn.mozilla.net
+0.0.0.0 search.services.mozilla.com
+0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 onyx_tiles.stage.mozaws.net
+0.0.0.0 crash-stats.mozilla.com
+0.0.0.0 fhr.cdn.mozilla.net
+0.0.0.0 blocked.cdn.mozilla.net
+0.0.0.0 tbpl.mozilla.org
+0.0.0.0 shavar.services.mozilla.com
+#0.0.0.0 detectportal.firefox.com
