@@ -10,7 +10,7 @@ Files in this project list the domain names of servers, one per line that can be
 * "This would be so much cleaner if one were writing this as a dnsmasq config"
 
   Yes.  If you want that solution, see [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html)
-  and projects like these [FreeContributor](https://github.com/tbds/FreeContributor).
+  and projects like these: [FreeContributor](https://github.com/evilneuro/FreeContributor).
 
-  This path requires more technical skill than adding entries to your hosts file, 
+  These options require slightly more technical skill than adding entries to your hosts file, 
   and can work better in some ways.
