@@ -335,6 +335,8 @@
 0.0.0.0 webdav.facebook.com
 0.0.0.0 z-m.c10r.facebook.com
 0.0.0.0 z-m.facebook.com
+0.0.0.0 nl-nl.facebook.com
+0.0.0.0 pl-pl.facebook.com
 0.0.0.0 edge-sonar-shv-01-ams2.fbcdn.net
 0.0.0.0 edge-sonar-shv-01-ams3.fbcdn.net
 0.0.0.0 edge-sonar-shv-01-ash5.fbcdn.net
@@ -499,6 +501,7 @@
 0.0.0.0 scontent-vie.xx.fbcdn.net
 0.0.0.0 scontent.fsjc1-2.fna.fbcdn.net
 0.0.0.0 scontent.fsnc1-1.fna.fbcdn.net
+0.0.0.0 scontent.fams1-2.fna.fbcdn.net
 0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 sonar-iad.xx.fbcdn.net
 0.0.0.0 sphotos-a-ams.xx.fbcdn.net
