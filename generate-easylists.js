@@ -15,7 +15,7 @@ files.forEach(file => {
 
   var easy = '[Adblock Plus 2.0]\n' +
                 fileContents.split('\n')
-                .map(line => line.match(/^0\.0\.0\.0[\s]+(.*)/))
+                .map(line => line.match(/^0\.0\.0\.0[\s]+([^#\s]*)/))
                 .filter(result => result != null)
                 .map(result => result[1])
                 .map(domain => [ `||${domain}^`,

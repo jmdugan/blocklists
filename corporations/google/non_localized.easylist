@@ -1,229 +1,229 @@
 [Adblock Plus 2.0]
-||admob.com				# AdMob^
-||admob.com				# AdMob^$popup
-||admob.com				# AdMob^$third-party
-||adsense.com				# AdSense^
-||adsense.com				# AdSense^$popup
-||adsense.com				# AdSense^$third-party
-||adwords.com				# AdWords^
-||adwords.com				# AdWords^$popup
-||adwords.com				# AdWords^$third-party
-||android.com				# Android^
-||android.com				# Android^$popup
-||android.com				# Android^$third-party
-||blogger.com				# Blogger^
-||blogger.com				# Blogger^$popup
-||blogger.com				# Blogger^$third-party
-||blogspot.com			# Blogger^
-||blogspot.com			# Blogger^$popup
-||blogspot.com			# Blogger^$third-party
-||chromium.org			# Chromium^
-||chromium.org			# Chromium^$popup
-||chromium.org			# Chromium^$third-party
-||chrome.com				# Google Chrome^
-||chrome.com				# Google Chrome^$popup
-||chrome.com				# Google Chrome^$third-party
-||chromebook.com			# Chromebook^
-||chromebook.com			# Chromebook^$popup
-||chromebook.com			# Chromebook^$third-party
-||cobrasearch.com			# Google^
-||cobrasearch.com			# Google^$popup
-||cobrasearch.com			# Google^$third-party
-||com.google				# elgooG^
-||com.google				# elgooG^$popup
-||com.google				# elgooG^$third-party
-||feedburner.com			# FeedBurner^
-||feedburner.com			# FeedBurner^$popup
-||feedburner.com			# FeedBurner^$third-party
-||doubleclick.com			# DoubleClick^
-||doubleclick.com			# DoubleClick^$popup
-||doubleclick.com			# DoubleClick^$third-party
-||igoogle.com				# iGoogle^
-||igoogle.com				# iGoogle^$popup
-||igoogle.com				# iGoogle^$third-party
-||foofle.com				# Google^
-||foofle.com				# Google^$popup
-||foofle.com				# Google^$third-party
-||froogle.com				# Froogle^
-||froogle.com				# Froogle^$popup
-||froogle.com				# Froogle^$third-party
-||googleanalytics.com		# Google Analytics^
-||googleanalytics.com		# Google Analytics^$popup
-||googleanalytics.com		# Google Analytics^$third-party
-||google-analytics.com	# Google Analytics^
-||google-analytics.com	# Google Analytics^$popup
-||google-analytics.com	# Google Analytics^$third-party
-||googletagmanager.com	# Google Analytics^
-||googletagmanager.com	# Google Analytics^$popup
-||googletagmanager.com	# Google Analytics^$third-party
-||googlecode.com			# Google Code^
-||googlecode.com			# Google Code^$popup
-||googlecode.com			# Google Code^$third-party
-||googlesource.com		# Google Developer Source^
-||googlesource.com		# Google Developer Source^$popup
-||googlesource.com		# Google Developer Source^$third-party
-||googledrive.com			# Google Drive^
-||googledrive.com			# Google Drive^$popup
-||googledrive.com			# Google Drive^$third-party
-||googlearth.com			# Google Earth^
-||googlearth.com			# Google Earth^$popup
-||googlearth.com			# Google Earth^$third-party
-||googleearth.com			# Google Earth^
-||googleearth.com			# Google Earth^$popup
-||googleearth.com			# Google Earth^$third-party
-||googlemaps.com			# Google Maps^
-||googlemaps.com			# Google Maps^$popup
-||googlemaps.com			# Google Maps^$third-party
-||googlepagecreator.com	# Google Page Creator^
-||googlepagecreator.com	# Google Page Creator^$popup
-||googlepagecreator.com	# Google Page Creator^$third-party
-||googlescholar.com		# Google Scholar^
-||googlescholar.com		# Google Scholar^$popup
-||googlescholar.com		# Google Scholar^$third-party
-||gmail.com				# Gmail^
-||gmail.com				# Gmail^$popup
-||gmail.com				# Gmail^$third-party
-||googlemail.com			# Gmail^
-||googlemail.com			# Gmail^$popup
-||googlemail.com			# Gmail^$third-party
-||keyhole.com				# Keyhole^
-||keyhole.com				# Keyhole^$popup
-||keyhole.com				# Keyhole^$third-party
-||madewithcode.com		# Made with Code^
-||madewithcode.com		# Made with Code^$popup
-||madewithcode.com		# Made with Code^$third-party
-||panoramio.com			# Panoramio^
-||panoramio.com			# Panoramio^$popup
-||panoramio.com			# Panoramio^$third-party
-||picasa.com				# Picasa^
-||picasa.com				# Picasa^$popup
-||picasa.com				# Picasa^$third-party
-||sketchup.com			# SketchUp^
-||sketchup.com			# SketchUp^$popup
-||sketchup.com			# SketchUp^$third-party
-||urchin.com				# Google Analytics^
-||urchin.com				# Google Analytics^$popup
-||urchin.com				# Google Analytics^$third-party
-||waze.com				# Waze^
-||waze.com				# Waze^$popup
-||waze.com				# Waze^$third-party
-||youtube.com				# YouTube^
-||youtube.com				# YouTube^$popup
-||youtube.com				# YouTube^$third-party
-||youtu.be				# YouTube^
-||youtu.be				# YouTube^$popup
-||youtu.be				# YouTube^$third-party
-||yt.be					# YouTube^
-||yt.be					# YouTube^$popup
-||yt.be					# YouTube^$third-party
-||ytimg.com				# YouTube^
-||ytimg.com				# YouTube^$popup
-||ytimg.com				# YouTube^$third-party
-||youtubeeducation.com	# YouTube^
-||youtubeeducation.com	# YouTube^$popup
-||youtubeeducation.com	# YouTube^$third-party
-||youtube-nocookie.com	# YouTube^
-||youtube-nocookie.com	# YouTube^$popup
-||youtube-nocookie.com	# YouTube^$third-party
-||like.com				# Google^
-||like.com				# Google^$popup
-||like.com				# Google^$third-party
-||google.org				# Google.org^
-||google.org				# Google.org^$popup
-||google.org				# Google.org^$third-party
-||google.net				# Google^
-||google.net				# Google^$popup
-||google.net				# Google^$third-party
-||466453.com				# Google^
-||466453.com				# Google^$popup
-||466453.com				# Google^$third-party
-||gooogle.com				# Google^
-||gooogle.com				# Google^$popup
-||gooogle.com				# Google^$third-party
-||gogle.com				# Google^
-||gogle.com				# Google^$popup
-||gogle.com				# Google^$third-party
-||ggoogle.com				# Google^
-||ggoogle.com				# Google^$popup
-||ggoogle.com				# Google^$third-party
-||gogole.com				# Google^
-||gogole.com				# Google^$popup
-||gogole.com				# Google^$third-party
-||goolge.com				# Google^
-||goolge.com				# Google^$popup
-||goolge.com				# Google^$third-party
-||googel.com				# Google^
-||googel.com				# Google^$popup
-||googel.com				# Google^$third-party
-||duck.com				# Google^
-||duck.com				# Google^$popup
-||duck.com				# Google^$third-party
-||googlee.com				# Google^
-||googlee.com				# Google^$popup
-||googlee.com				# Google^$third-party
-||googil.com				# Google^
-||googil.com				# Google^$popup
-||googil.com				# Google^$third-party
-||googlr.com				# Google^
-||googlr.com				# Google^$popup
-||googlr.com				# Google^$third-party
-||googl.com				# Google^
-||googl.com				# Google^$popup
-||googl.com				# Google^$third-party
-||gmodules.com			# Google^
-||gmodules.com			# Google^$popup
-||gmodules.com			# Google^$third-party
-||googleadservices.com	# Google^
-||googleadservices.com	# Google^$popup
-||googleadservices.com	# Google^$third-party
-||googleapps.com			# Google Apps for Work^
-||googleapps.com			# Google Apps for Work^$popup
-||googleapps.com			# Google Apps for Work^$third-party
-||googleapis.com			# Google^
-||googleapis.com			# Google^$popup
-||googleapis.com			# Google^$third-party
-||goo.gl					# Google URL Shortener^
-||goo.gl					# Google URL Shortener^$popup
-||goo.gl					# Google URL Shortener^$third-party
-||googlebot.com			# Google^
-||googlebot.com			# Google^$popup
-||googlebot.com			# Google^$third-party
-||googlecommerce.com		# Google^
-||googlecommerce.com		# Google^$popup
-||googlecommerce.com		# Google^$third-party
-||googlesyndication.com	# Google^
-||googlesyndication.com	# Google^$popup
-||googlesyndication.com	# Google^$third-party
-||g.co					# Google^
-||g.co					# Google^$popup
-||g.co					# Google^$third-party
-||whatbrowser.org			# What Browser?^
-||whatbrowser.org			# What Browser?^$popup
-||whatbrowser.org			# What Browser?^$third-party
-||localhost.com			# Google^
-||localhost.com			# Google^$popup
-||localhost.com			# Google^$third-party
-||withgoogle.com			# Google^
-||withgoogle.com			# Google^$popup
-||withgoogle.com			# Google^$third-party
-||1e100.net				# Google Cookies^
-||1e100.net				# Google Cookies^$popup
-||1e100.net				# Google Cookies^$third-party
-||ggpht.com				# Google Photo^
-||ggpht.com				# Google Photo^$popup
-||ggpht.com				# Google Photo^$third-party
-||googleusercontent.com	# Google User Content^
-||googleusercontent.com	# Google User Content^$popup
-||googleusercontent.com	# Google User Content^$third-party
-||youtubegaming.com		# YouTube^
-||youtubegaming.com		# YouTube^$popup
-||youtubegaming.com		# YouTube^$third-party
-||firehunt.com			# Google^
-||firehunt.com			# Google^$popup
-||firehunt.com			# Google^$third-party
-||domains.google			# Google Domains^
-||domains.google			# Google Domains^$popup
-||domains.google			# Google Domains^$third-party
+||admob.com^
+||admob.com^$popup
+||admob.com^$third-party
+||adsense.com^
+||adsense.com^$popup
+||adsense.com^$third-party
+||adwords.com^
+||adwords.com^$popup
+||adwords.com^$third-party
+||android.com^
+||android.com^$popup
+||android.com^$third-party
+||blogger.com^
+||blogger.com^$popup
+||blogger.com^$third-party
+||blogspot.com^
+||blogspot.com^$popup
+||blogspot.com^$third-party
+||chromium.org^
+||chromium.org^$popup
+||chromium.org^$third-party
+||chrome.com^
+||chrome.com^$popup
+||chrome.com^$third-party
+||chromebook.com^
+||chromebook.com^$popup
+||chromebook.com^$third-party
+||cobrasearch.com^
+||cobrasearch.com^$popup
+||cobrasearch.com^$third-party
+||com.google^
+||com.google^$popup
+||com.google^$third-party
+||feedburner.com^
+||feedburner.com^$popup
+||feedburner.com^$third-party
+||doubleclick.com^
+||doubleclick.com^$popup
+||doubleclick.com^$third-party
+||igoogle.com^
+||igoogle.com^$popup
+||igoogle.com^$third-party
+||foofle.com^
+||foofle.com^$popup
+||foofle.com^$third-party
+||froogle.com^
+||froogle.com^$popup
+||froogle.com^$third-party
+||googleanalytics.com^
+||googleanalytics.com^$popup
+||googleanalytics.com^$third-party
+||google-analytics.com^
+||google-analytics.com^$popup
+||google-analytics.com^$third-party
+||googletagmanager.com^
+||googletagmanager.com^$popup
+||googletagmanager.com^$third-party
+||googlecode.com^
+||googlecode.com^$popup
+||googlecode.com^$third-party
+||googlesource.com^
+||googlesource.com^$popup
+||googlesource.com^$third-party
+||googledrive.com^
+||googledrive.com^$popup
+||googledrive.com^$third-party
+||googlearth.com^
+||googlearth.com^$popup
+||googlearth.com^$third-party
+||googleearth.com^
+||googleearth.com^$popup
+||googleearth.com^$third-party
+||googlemaps.com^
+||googlemaps.com^$popup
+||googlemaps.com^$third-party
+||googlepagecreator.com^
+||googlepagecreator.com^$popup
+||googlepagecreator.com^$third-party
+||googlescholar.com^
+||googlescholar.com^$popup
+||googlescholar.com^$third-party
+||gmail.com^
+||gmail.com^$popup
+||gmail.com^$third-party
+||googlemail.com^
+||googlemail.com^$popup
+||googlemail.com^$third-party
+||keyhole.com^
+||keyhole.com^$popup
+||keyhole.com^$third-party
+||madewithcode.com^
+||madewithcode.com^$popup
+||madewithcode.com^$third-party
+||panoramio.com^
+||panoramio.com^$popup
+||panoramio.com^$third-party
+||picasa.com^
+||picasa.com^$popup
+||picasa.com^$third-party
+||sketchup.com^
+||sketchup.com^$popup
+||sketchup.com^$third-party
+||urchin.com^
+||urchin.com^$popup
+||urchin.com^$third-party
+||waze.com^
+||waze.com^$popup
+||waze.com^$third-party
+||youtube.com^
+||youtube.com^$popup
+||youtube.com^$third-party
+||youtu.be^
+||youtu.be^$popup
+||youtu.be^$third-party
+||yt.be^
+||yt.be^$popup
+||yt.be^$third-party
+||ytimg.com^
+||ytimg.com^$popup
+||ytimg.com^$third-party
+||youtubeeducation.com^
+||youtubeeducation.com^$popup
+||youtubeeducation.com^$third-party
+||youtube-nocookie.com^
+||youtube-nocookie.com^$popup
+||youtube-nocookie.com^$third-party
+||like.com^
+||like.com^$popup
+||like.com^$third-party
+||google.org^
+||google.org^$popup
+||google.org^$third-party
+||google.net^
+||google.net^$popup
+||google.net^$third-party
+||466453.com^
+||466453.com^$popup
+||466453.com^$third-party
+||gooogle.com^
+||gooogle.com^$popup
+||gooogle.com^$third-party
+||gogle.com^
+||gogle.com^$popup
+||gogle.com^$third-party
+||ggoogle.com^
+||ggoogle.com^$popup
+||ggoogle.com^$third-party
+||gogole.com^
+||gogole.com^$popup
+||gogole.com^$third-party
+||goolge.com^
+||goolge.com^$popup
+||goolge.com^$third-party
+||googel.com^
+||googel.com^$popup
+||googel.com^$third-party
+||duck.com^
+||duck.com^$popup
+||duck.com^$third-party
+||googlee.com^
+||googlee.com^$popup
+||googlee.com^$third-party
+||googil.com^
+||googil.com^$popup
+||googil.com^$third-party
+||googlr.com^
+||googlr.com^$popup
+||googlr.com^$third-party
+||googl.com^
+||googl.com^$popup
+||googl.com^$third-party
+||gmodules.com^
+||gmodules.com^$popup
+||gmodules.com^$third-party
+||googleadservices.com^
+||googleadservices.com^$popup
+||googleadservices.com^$third-party
+||googleapps.com^
+||googleapps.com^$popup
+||googleapps.com^$third-party
+||googleapis.com^
+||googleapis.com^$popup
+||googleapis.com^$third-party
+||goo.gl^
+||goo.gl^$popup
+||goo.gl^$third-party
+||googlebot.com^
+||googlebot.com^$popup
+||googlebot.com^$third-party
+||googlecommerce.com^
+||googlecommerce.com^$popup
+||googlecommerce.com^$third-party
+||googlesyndication.com^
+||googlesyndication.com^$popup
+||googlesyndication.com^$third-party
+||g.co^
+||g.co^$popup
+||g.co^$third-party
+||whatbrowser.org^
+||whatbrowser.org^$popup
+||whatbrowser.org^$third-party
+||localhost.com^
+||localhost.com^$popup
+||localhost.com^$third-party
+||withgoogle.com^
+||withgoogle.com^$popup
+||withgoogle.com^$third-party
+||1e100.net^
+||1e100.net^$popup
+||1e100.net^$third-party
+||ggpht.com^
+||ggpht.com^$popup
+||ggpht.com^$third-party
+||googleusercontent.com^
+||googleusercontent.com^$popup
+||googleusercontent.com^$third-party
+||youtubegaming.com^
+||youtubegaming.com^$popup
+||youtubegaming.com^$third-party
+||firehunt.com^
+||firehunt.com^$popup
+||firehunt.com^$third-party
+||domains.google^
+||domains.google^$popup
+||domains.google^$third-party
 ||safebrowsing.googleapis.com^
 ||safebrowsing.googleapis.com^$popup
 ||safebrowsing.googleapis.com^$third-party
