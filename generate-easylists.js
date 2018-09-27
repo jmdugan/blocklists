@@ -13,14 +13,15 @@ var files = fs.readdirSync(rootPath)
 files.forEach(file => {
   var fileContents = fs.readFileSync(file, { encoding: 'utf-8' });
 
-  var easy = fileContents.split('\n')
-              .map(line => line.match(/^0\.0\.0\.0[\s]+(.*)/))
-              .filter(result => result != null)
-              .map(result => result[1])
-              .map(domain => [ `||${domain}^`,
-                               `||${domain}^$popup`,
-                               `||${domain}^$third-party` ].join('\n'))
-              .join('\n');
+  var easy = '[Adblock Plus 2.0]\n' +
+                fileContents.split('\n')
+                .map(line => line.match(/^0\.0\.0\.0[\s]+(.*)/))
+                .filter(result => result != null)
+                .map(result => result[1])
+                .map(domain => [ `||${domain}^`,
+                                 `||${domain}^$popup`,
+                                 `||${domain}^$third-party` ].join('\n'))
+                .join('\n');
 
   fs.writeFileSync(file + '.easylist', easy);
 })
