@@ -1,0 +1,600 @@
+||google.com		# Worldwide (Original for the United States)	^
+||google.com		# Worldwide (Original for the United States)	^$popup
+||google.com		# Worldwide (Original for the United States)	^$third-party
+||google.ac		# Ascension Island	^
+||google.ac		# Ascension Island	^$popup
+||google.ac		# Ascension Island	^$third-party
+||google.ad		# Andorra	^
+||google.ad		# Andorra	^$popup
+||google.ad		# Andorra	^$third-party
+||google.ae		# United Arab Emirates	^
+||google.ae		# United Arab Emirates	^$popup
+||google.ae		# United Arab Emirates	^$third-party
+||google.com.af	# Afghanistan	^
+||google.com.af	# Afghanistan	^$popup
+||google.com.af	# Afghanistan	^$third-party
+||google.com.ag	# Antigua and Barbuda	^
+||google.com.ag	# Antigua and Barbuda	^$popup
+||google.com.ag	# Antigua and Barbuda	^$third-party
+||google.com.ai	# Anguilla	^
+||google.com.ai	# Anguilla	^$popup
+||google.com.ai	# Anguilla	^$third-party
+||google.al		# Albania	^
+||google.al		# Albania	^$popup
+||google.al		# Albania	^$third-party
+||google.am		# Armenia	^
+||google.am		# Armenia	^$popup
+||google.am		# Armenia	^$third-party
+||google.co.ao	# Angola	^
+||google.co.ao	# Angola	^$popup
+||google.co.ao	# Angola	^$third-party
+||google.com.ar	# Argentina	^
+||google.com.ar	# Argentina	^$popup
+||google.com.ar	# Argentina	^$third-party
+||google.as		# American Samoa	^
+||google.as		# American Samoa	^$popup
+||google.as		# American Samoa	^$third-party
+||google.at		# Austria	^
+||google.at		# Austria	^$popup
+||google.at		# Austria	^$third-party
+||google.com.au	# Australia	^
+||google.com.au	# Australia	^$popup
+||google.com.au	# Australia	^$third-party
+||google.az		# Azerbaijan	^
+||google.az		# Azerbaijan	^$popup
+||google.az		# Azerbaijan	^$third-party
+||google.ba		# Bosnia and Herzegovina	^
+||google.ba		# Bosnia and Herzegovina	^$popup
+||google.ba		# Bosnia and Herzegovina	^$third-party
+||google.com.bd	# Bangladesh	^
+||google.com.bd	# Bangladesh	^$popup
+||google.com.bd	# Bangladesh	^$third-party
+||google.be		# Belgium	^
+||google.be		# Belgium	^$popup
+||google.be		# Belgium	^$third-party
+||google.bf		# Burkina Faso	^
+||google.bf		# Burkina Faso	^$popup
+||google.bf		# Burkina Faso	^$third-party
+||google.bg		# Bulgaria	^
+||google.bg		# Bulgaria	^$popup
+||google.bg		# Bulgaria	^$third-party
+||google.com.bh	# Bahrain	^
+||google.com.bh	# Bahrain	^$popup
+||google.com.bh	# Bahrain	^$third-party
+||google.bi		# Burundi	^
+||google.bi		# Burundi	^$popup
+||google.bi		# Burundi	^$third-party
+||google.bj		# Benin	^
+||google.bj		# Benin	^$popup
+||google.bj		# Benin	^$third-party
+||google.com.bn	# Brunei	^
+||google.com.bn	# Brunei	^$popup
+||google.com.bn	# Brunei	^$third-party
+||google.com.bo	# Bolivia	^
+||google.com.bo	# Bolivia	^$popup
+||google.com.bo	# Bolivia	^$third-party
+||google.com.br	# Brazil	^
+||google.com.br	# Brazil	^$popup
+||google.com.br	# Brazil	^$third-party
+||google.bs		# Bahamas	^
+||google.bs		# Bahamas	^$popup
+||google.bs		# Bahamas	^$third-party
+||google.bt		# Bhutan	^
+||google.bt		# Bhutan	^$popup
+||google.bt		# Bhutan	^$third-party
+||google.co.bw	# Botswana	^
+||google.co.bw	# Botswana	^$popup
+||google.co.bw	# Botswana	^$third-party
+||google.by		# Belarus^
+||google.by		# Belarus^$popup
+||google.by		# Belarus^$third-party
+||google.com.bz	# Belize	^
+||google.com.bz	# Belize	^$popup
+||google.com.bz	# Belize	^$third-party
+||google.ca		# Canada	^
+||google.ca		# Canada	^$popup
+||google.ca		# Canada	^$third-party
+||google.com.kh	# Cambodia	^
+||google.com.kh	# Cambodia	^$popup
+||google.com.kh	# Cambodia	^$third-party
+||google.cc		# Cocos (Keeling) Islands	^
+||google.cc		# Cocos (Keeling) Islands	^$popup
+||google.cc		# Cocos (Keeling) Islands	^$third-party
+||google.cd		# Democratic Republic of the Congo	^
+||google.cd		# Democratic Republic of the Congo	^$popup
+||google.cd		# Democratic Republic of the Congo	^$third-party
+||google.cf		# Central African Republic	^
+||google.cf		# Central African Republic	^$popup
+||google.cf		# Central African Republic	^$third-party
+||google.cat		# Catalonia Catalan Countries	^
+||google.cat		# Catalonia Catalan Countries	^$popup
+||google.cat		# Catalonia Catalan Countries	^$third-party
+||google.cg		# Republic of the Congo	^
+||google.cg		# Republic of the Congo	^$popup
+||google.cg		# Republic of the Congo	^$third-party
+||google.ch		# Switzerland	^
+||google.ch		# Switzerland	^$popup
+||google.ch		# Switzerland	^$third-party
+||google.ci		# Ivory Coast	^
+||google.ci		# Ivory Coast	^$popup
+||google.ci		# Ivory Coast	^$third-party
+||google.co.ck	# Cook Islands	^
+||google.co.ck	# Cook Islands	^$popup
+||google.co.ck	# Cook Islands	^$third-party
+||google.cl		# Chile	^
+||google.cl		# Chile	^$popup
+||google.cl		# Chile	^$third-party
+||google.cm		# Cameroon	^
+||google.cm		# Cameroon	^$popup
+||google.cm		# Cameroon	^$third-party
+||google.cn		# China	^
+||google.cn		# China	^$popup
+||google.cn		# China	^$third-party
+||g.cn			# China	^
+||g.cn			# China	^$popup
+||g.cn			# China	^$third-party
+||google.com.co	# Colombia	^
+||google.com.co	# Colombia	^$popup
+||google.com.co	# Colombia	^$third-party
+||google.co.cr	# Costa Rica	^
+||google.co.cr	# Costa Rica	^$popup
+||google.co.cr	# Costa Rica	^$third-party
+||google.com.cu	# Cuba	^
+||google.com.cu	# Cuba	^$popup
+||google.com.cu	# Cuba	^$third-party
+||google.cv		# Cape Verde	^
+||google.cv		# Cape Verde	^$popup
+||google.cv		# Cape Verde	^$third-party
+||google.com.cy	# Cyprus	^
+||google.com.cy	# Cyprus	^$popup
+||google.com.cy	# Cyprus	^$third-party
+||google.cz		# Czech Republic	^
+||google.cz		# Czech Republic	^$popup
+||google.cz		# Czech Republic	^$third-party
+||google.de		# Germany	^
+||google.de		# Germany	^$popup
+||google.de		# Germany	^$third-party
+||google.dj		# Djibouti	^
+||google.dj		# Djibouti	^$popup
+||google.dj		# Djibouti	^$third-party
+||google.dk		# Denmark	^
+||google.dk		# Denmark	^$popup
+||google.dk		# Denmark	^$third-party
+||google.dm		# Dominica	^
+||google.dm		# Dominica	^$popup
+||google.dm		# Dominica	^$third-party
+||google.com.do	# Dominican Republic	^
+||google.com.do	# Dominican Republic	^$popup
+||google.com.do	# Dominican Republic	^$third-party
+||google.dz		# Algeria	^
+||google.dz		# Algeria	^$popup
+||google.dz		# Algeria	^$third-party
+||google.com.ec	# Ecuador	^
+||google.com.ec	# Ecuador	^$popup
+||google.com.ec	# Ecuador	^$third-party
+||google.ee		# Estonia	^
+||google.ee		# Estonia	^$popup
+||google.ee		# Estonia	^$third-party
+||google.com.eg	# Egypt	^
+||google.com.eg	# Egypt	^$popup
+||google.com.eg	# Egypt	^$third-party
+||google.es		# Spain	^
+||google.es		# Spain	^$popup
+||google.es		# Spain	^$third-party
+||google.com.et	# Ethiopia	^
+||google.com.et	# Ethiopia	^$popup
+||google.com.et	# Ethiopia	^$third-party
+||google.fi		# Finland	^
+||google.fi		# Finland	^$popup
+||google.fi		# Finland	^$third-party
+||google.com.fj	# Fiji	^
+||google.com.fj	# Fiji	^$popup
+||google.com.fj	# Fiji	^$third-party
+||google.fm		# Federated States of Micronesia	^
+||google.fm		# Federated States of Micronesia	^$popup
+||google.fm		# Federated States of Micronesia	^$third-party
+||google.fr		# France	^
+||google.fr		# France	^$popup
+||google.fr		# France	^$third-party
+||google.ga		# Gabon	^
+||google.ga		# Gabon	^$popup
+||google.ga		# Gabon	^$third-party
+||google.ge		# Georgia	^
+||google.ge		# Georgia	^$popup
+||google.ge		# Georgia	^$third-party
+||google.gf		# French Guiana	^
+||google.gf		# French Guiana	^$popup
+||google.gf		# French Guiana	^$third-party
+||google.gg		# Guernsey	^
+||google.gg		# Guernsey	^$popup
+||google.gg		# Guernsey	^$third-party
+||google.com.gh	# Ghana	^
+||google.com.gh	# Ghana	^$popup
+||google.com.gh	# Ghana	^$third-party
+||google.com.gi	# Gibraltar	^
+||google.com.gi	# Gibraltar	^$popup
+||google.com.gi	# Gibraltar	^$third-party
+||google.gl		# Greenland	^
+||google.gl		# Greenland	^$popup
+||google.gl		# Greenland	^$third-party
+||google.gm		# Gambia	^
+||google.gm		# Gambia	^$popup
+||google.gm		# Gambia	^$third-party
+||google.gp		# Guadeloupe	^
+||google.gp		# Guadeloupe	^$popup
+||google.gp		# Guadeloupe	^$third-party
+||google.gr		# Greece	^
+||google.gr		# Greece	^$popup
+||google.gr		# Greece	^$third-party
+||google.com.gt	# Guatemala	^
+||google.com.gt	# Guatemala	^$popup
+||google.com.gt	# Guatemala	^$third-party
+||google.gy		# Guyana	^
+||google.gy		# Guyana	^$popup
+||google.gy		# Guyana	^$third-party
+||google.com.hk	# Hong Kong	^
+||google.com.hk	# Hong Kong	^$popup
+||google.com.hk	# Hong Kong	^$third-party
+||google.hn		# Honduras	^
+||google.hn		# Honduras	^$popup
+||google.hn		# Honduras	^$third-party
+||google.hr		# Croatia	^
+||google.hr		# Croatia	^$popup
+||google.hr		# Croatia	^$third-party
+||google.ht		# Haiti	^
+||google.ht		# Haiti	^$popup
+||google.ht		# Haiti	^$third-party
+||google.hu		# Hungary	^
+||google.hu		# Hungary	^$popup
+||google.hu		# Hungary	^$third-party
+||google.co.id	# Indonesia	^
+||google.co.id	# Indonesia	^$popup
+||google.co.id	# Indonesia	^$third-party
+||google.iq		# Iraq	^
+||google.iq		# Iraq	^$popup
+||google.iq		# Iraq	^$third-party
+||google.ie		# Ireland	^
+||google.ie		# Ireland	^$popup
+||google.ie		# Ireland	^$third-party
+||google.co.il	# Israel	^
+||google.co.il	# Israel	^$popup
+||google.co.il	# Israel	^$third-party
+||google.im		# Isle of Man	^
+||google.im		# Isle of Man	^$popup
+||google.im		# Isle of Man	^$third-party
+||google.co.in	# India	^
+||google.co.in	# India	^$popup
+||google.co.in	# India	^$third-party
+||google.io		# British Indian Ocean Territory	^
+||google.io		# British Indian Ocean Territory	^$popup
+||google.io		# British Indian Ocean Territory	^$third-party
+||google.is		# Iceland	^
+||google.is		# Iceland	^$popup
+||google.is		# Iceland	^$third-party
+||google.it		# Italy	^
+||google.it		# Italy	^$popup
+||google.it		# Italy	^$third-party
+||google.je		# Jersey	^
+||google.je		# Jersey	^$popup
+||google.je		# Jersey	^$third-party
+||google.com.jm	# Jamaica	^
+||google.com.jm	# Jamaica	^$popup
+||google.com.jm	# Jamaica	^$third-party
+||google.jo		# Jordan	^
+||google.jo		# Jordan	^$popup
+||google.jo		# Jordan	^$third-party
+||google.co.jp	# Japan	^
+||google.co.jp	# Japan	^$popup
+||google.co.jp	# Japan	^$third-party
+||google.co.ke	# Kenya	^
+||google.co.ke	# Kenya	^$popup
+||google.co.ke	# Kenya	^$third-party
+||google.ki		# Kiribati	^
+||google.ki		# Kiribati	^$popup
+||google.ki		# Kiribati	^$third-party
+||google.kg		# Kyrgyzstan	^
+||google.kg		# Kyrgyzstan	^$popup
+||google.kg		# Kyrgyzstan	^$third-party
+||google.co.kr	# South Korea	^
+||google.co.kr	# South Korea	^$popup
+||google.co.kr	# South Korea	^$third-party
+||google.com.kw	# Kuwait	^
+||google.com.kw	# Kuwait	^$popup
+||google.com.kw	# Kuwait	^$third-party
+||google.kz		# Kazakhstan	^
+||google.kz		# Kazakhstan	^$popup
+||google.kz		# Kazakhstan	^$third-party
+||google.la		# Laos	^
+||google.la		# Laos	^$popup
+||google.la		# Laos	^$third-party
+||google.com.lb	# Lebanon	^
+||google.com.lb	# Lebanon	^$popup
+||google.com.lb	# Lebanon	^$third-party
+||google.com.lc	# Saint Lucia	^
+||google.com.lc	# Saint Lucia	^$popup
+||google.com.lc	# Saint Lucia	^$third-party
+||google.li		# Liechtenstein	^
+||google.li		# Liechtenstein	^$popup
+||google.li		# Liechtenstein	^$third-party
+||google.lk		# Sri Lanka	^
+||google.lk		# Sri Lanka	^$popup
+||google.lk		# Sri Lanka	^$third-party
+||google.co.ls	# Lesotho	^
+||google.co.ls	# Lesotho	^$popup
+||google.co.ls	# Lesotho	^$third-party
+||google.lt		# Lithuania	^
+||google.lt		# Lithuania	^$popup
+||google.lt		# Lithuania	^$third-party
+||google.lu		# Luxembourg	^
+||google.lu		# Luxembourg	^$popup
+||google.lu		# Luxembourg	^$third-party
+||google.lv		# Latvia	^
+||google.lv		# Latvia	^$popup
+||google.lv		# Latvia	^$third-party
+||google.com.ly	# Libya	^
+||google.com.ly	# Libya	^$popup
+||google.com.ly	# Libya	^$third-party
+||google.co.ma	# Morocco	^
+||google.co.ma	# Morocco	^$popup
+||google.co.ma	# Morocco	^$third-party
+||google.md		# Moldova	^
+||google.md		# Moldova	^$popup
+||google.md		# Moldova	^$third-party
+||google.me		# Montenegro	^
+||google.me		# Montenegro	^$popup
+||google.me		# Montenegro	^$third-party
+||google.mg		# Madagascar	^
+||google.mg		# Madagascar	^$popup
+||google.mg		# Madagascar	^$third-party
+||google.mk		# Macedonia	^
+||google.mk		# Macedonia	^$popup
+||google.mk		# Macedonia	^$third-party
+||google.ml		# Mali	^
+||google.ml		# Mali	^$popup
+||google.ml		# Mali	^$third-party
+||google.com.mm	# Myanmar	^
+||google.com.mm	# Myanmar	^$popup
+||google.com.mm	# Myanmar	^$third-party
+||google.mn		# Mongolia	^
+||google.mn		# Mongolia	^$popup
+||google.mn		# Mongolia	^$third-party
+||google.ms		# Montserrat	^
+||google.ms		# Montserrat	^$popup
+||google.ms		# Montserrat	^$third-party
+||google.com.mt	# Malta	^
+||google.com.mt	# Malta	^$popup
+||google.com.mt	# Malta	^$third-party
+||google.mu		# Mauritius	^
+||google.mu		# Mauritius	^$popup
+||google.mu		# Mauritius	^$third-party
+||google.mv		# Maldives	^
+||google.mv		# Maldives	^$popup
+||google.mv		# Maldives	^$third-party
+||google.mw		# Malawi	^
+||google.mw		# Malawi	^$popup
+||google.mw		# Malawi	^$third-party
+||google.com.mx	# Mexico	^
+||google.com.mx	# Mexico	^$popup
+||google.com.mx	# Mexico	^$third-party
+||google.com.my	# Malaysia	^
+||google.com.my	# Malaysia	^$popup
+||google.com.my	# Malaysia	^$third-party
+||google.co.mz	# Mozambique	^
+||google.co.mz	# Mozambique	^$popup
+||google.co.mz	# Mozambique	^$third-party
+||google.com.na	# Namibia	^
+||google.com.na	# Namibia	^$popup
+||google.com.na	# Namibia	^$third-party
+||google.ne		# Niger	^
+||google.ne		# Niger	^$popup
+||google.ne		# Niger	^$third-party
+||google.com.nf	# Norfolk Island	^
+||google.com.nf	# Norfolk Island	^$popup
+||google.com.nf	# Norfolk Island	^$third-party
+||google.com.ng	# Nigeria	^
+||google.com.ng	# Nigeria	^$popup
+||google.com.ng	# Nigeria	^$third-party
+||google.com.ni	# Nicaragua	^
+||google.com.ni	# Nicaragua	^$popup
+||google.com.ni	# Nicaragua	^$third-party
+||google.nl		# Netherlands	^
+||google.nl		# Netherlands	^$popup
+||google.nl		# Netherlands	^$third-party
+||google.no		# Norway	^
+||google.no		# Norway	^$popup
+||google.no		# Norway	^$third-party
+||google.com.np	# Nepal	^
+||google.com.np	# Nepal	^$popup
+||google.com.np	# Nepal	^$third-party
+||google.nr		# Nauru	^
+||google.nr		# Nauru	^$popup
+||google.nr		# Nauru	^$third-party
+||google.nu		# Niue	^
+||google.nu		# Niue	^$popup
+||google.nu		# Niue	^$third-party
+||google.co.nz	# New Zealand	^
+||google.co.nz	# New Zealand	^$popup
+||google.co.nz	# New Zealand	^$third-party
+||google.com.om	# Oman	^
+||google.com.om	# Oman	^$popup
+||google.com.om	# Oman	^$third-party
+||google.com.pk	# Pakistan	^
+||google.com.pk	# Pakistan	^$popup
+||google.com.pk	# Pakistan	^$third-party
+||google.com.pa	# Panama	^
+||google.com.pa	# Panama	^$popup
+||google.com.pa	# Panama	^$third-party
+||google.com.pe	# Peru	^
+||google.com.pe	# Peru	^$popup
+||google.com.pe	# Peru	^$third-party
+||google.com.ph	# Philippines	^
+||google.com.ph	# Philippines	^$popup
+||google.com.ph	# Philippines	^$third-party
+||google.pl		# Poland	^
+||google.pl		# Poland	^$popup
+||google.pl		# Poland	^$third-party
+||google.com.pg	# Papua New Guinea	^
+||google.com.pg	# Papua New Guinea	^$popup
+||google.com.pg	# Papua New Guinea	^$third-party
+||google.pn		# Pitcairn Islands	^
+||google.pn		# Pitcairn Islands	^$popup
+||google.pn		# Pitcairn Islands	^$third-party
+||google.com.pr	# Puerto Rico	^
+||google.com.pr	# Puerto Rico	^$popup
+||google.com.pr	# Puerto Rico	^$third-party
+||google.ps		# Palestine	^
+||google.ps		# Palestine	^$popup
+||google.ps		# Palestine	^$third-party
+||google.pt		# Portugal	^
+||google.pt		# Portugal	^$popup
+||google.pt		# Portugal	^$third-party
+||google.com.py	# Paraguay	^
+||google.com.py	# Paraguay	^$popup
+||google.com.py	# Paraguay	^$third-party
+||google.com.qa	# Qatar	^
+||google.com.qa	# Qatar	^$popup
+||google.com.qa	# Qatar	^$third-party
+||google.ro		# Romania	^
+||google.ro		# Romania	^$popup
+||google.ro		# Romania	^$third-party
+||google.rs		# Serbia	^
+||google.rs		# Serbia	^$popup
+||google.rs		# Serbia	^$third-party
+||google.ru		# Russia	^
+||google.ru		# Russia	^$popup
+||google.ru		# Russia	^$third-party
+||google.rw		# Rwanda	^
+||google.rw		# Rwanda	^$popup
+||google.rw		# Rwanda	^$third-party
+||google.com.sa	# Saudi Arabia	^
+||google.com.sa	# Saudi Arabia	^$popup
+||google.com.sa	# Saudi Arabia	^$third-party
+||google.com.sb	# Solomon Islands	^
+||google.com.sb	# Solomon Islands	^$popup
+||google.com.sb	# Solomon Islands	^$third-party
+||google.sc		# Seychelles	^
+||google.sc		# Seychelles	^$popup
+||google.sc		# Seychelles	^$third-party
+||google.se		# Sweden	^
+||google.se		# Sweden	^$popup
+||google.se		# Sweden	^$third-party
+||google.com.sg	# Singapore	^
+||google.com.sg	# Singapore	^$popup
+||google.com.sg	# Singapore	^$third-party
+||google.sh		# Saint Helena, Ascension and Tristan da Cunha	^
+||google.sh		# Saint Helena, Ascension and Tristan da Cunha	^$popup
+||google.sh		# Saint Helena, Ascension and Tristan da Cunha	^$third-party
+||google.si		# Slovenia	^
+||google.si		# Slovenia	^$popup
+||google.si		# Slovenia	^$third-party
+||google.sk		# Slovakia	^
+||google.sk		# Slovakia	^$popup
+||google.sk		# Slovakia	^$third-party
+||google.com.sl	# Sierra Leone	^
+||google.com.sl	# Sierra Leone	^$popup
+||google.com.sl	# Sierra Leone	^$third-party
+||google.sn		# Senegal	^
+||google.sn		# Senegal	^$popup
+||google.sn		# Senegal	^$third-party
+||google.sm		# San Marino	^
+||google.sm		# San Marino	^$popup
+||google.sm		# San Marino	^$third-party
+||google.so		# Somalia	^
+||google.so		# Somalia	^$popup
+||google.so		# Somalia	^$third-party
+||google.st		# São Tomé and Príncipe	^
+||google.st		# São Tomé and Príncipe	^$popup
+||google.st		# São Tomé and Príncipe	^$third-party
+||google.sr		# Suriname	^
+||google.sr		# Suriname	^$popup
+||google.sr		# Suriname	^$third-party
+||google.com.sv	# El Salvador	^
+||google.com.sv	# El Salvador	^$popup
+||google.com.sv	# El Salvador	^$third-party
+||google.td		# Chad	^
+||google.td		# Chad	^$popup
+||google.td		# Chad	^$third-party
+||google.tg		# Togo	^
+||google.tg		# Togo	^$popup
+||google.tg		# Togo	^$third-party
+||google.co.th	# Thailand	^
+||google.co.th	# Thailand	^$popup
+||google.co.th	# Thailand	^$third-party
+||google.com.tj	# Tajikistan	^
+||google.com.tj	# Tajikistan	^$popup
+||google.com.tj	# Tajikistan	^$third-party
+||google.tk		# Tokelau	^
+||google.tk		# Tokelau	^$popup
+||google.tk		# Tokelau	^$third-party
+||google.tl		# Timor-Leste	^
+||google.tl		# Timor-Leste	^$popup
+||google.tl		# Timor-Leste	^$third-party
+||google.tm		# Turkmenistan	^
+||google.tm		# Turkmenistan	^$popup
+||google.tm		# Turkmenistan	^$third-party
+||google.to		# Tonga	^
+||google.to		# Tonga	^$popup
+||google.to		# Tonga	^$third-party
+||google.tn		# Tunisia	^
+||google.tn		# Tunisia	^$popup
+||google.tn		# Tunisia	^$third-party
+||google.com.tr	# Turkey	^
+||google.com.tr	# Turkey	^$popup
+||google.com.tr	# Turkey	^$third-party
+||google.tt		# Trinidad and Tobago	^
+||google.tt		# Trinidad and Tobago	^$popup
+||google.tt		# Trinidad and Tobago	^$third-party
+||google.com.tw	# Taiwan	^
+||google.com.tw	# Taiwan	^$popup
+||google.com.tw	# Taiwan	^$third-party
+||google.co.tz	# Tanzania	^
+||google.co.tz	# Tanzania	^$popup
+||google.co.tz	# Tanzania	^$third-party
+||google.com.ua	# Ukraine	^
+||google.com.ua	# Ukraine	^$popup
+||google.com.ua	# Ukraine	^$third-party
+||google.co.ug	# Uganda	^
+||google.co.ug	# Uganda	^$popup
+||google.co.ug	# Uganda	^$third-party
+||google.co.uk	# United Kingdom	^
+||google.co.uk	# United Kingdom	^$popup
+||google.co.uk	# United Kingdom	^$third-party
+||google.com		# United States	^
+||google.com		# United States	^$popup
+||google.com		# United States	^$third-party
+||google.com.uy	# Uruguay	^
+||google.com.uy	# Uruguay	^$popup
+||google.com.uy	# Uruguay	^$third-party
+||google.co.uz	# Uzbekistan	^
+||google.co.uz	# Uzbekistan	^$popup
+||google.co.uz	# Uzbekistan	^$third-party
+||google.com.vc	# Saint Vincent and the Grenadines	^
+||google.com.vc	# Saint Vincent and the Grenadines	^$popup
+||google.com.vc	# Saint Vincent and the Grenadines	^$third-party
+||google.co.ve	# Venezuela	^
+||google.co.ve	# Venezuela	^$popup
+||google.co.ve	# Venezuela	^$third-party
+||google.vg		# British Virgin Islands	^
+||google.vg		# British Virgin Islands	^$popup
+||google.vg		# British Virgin Islands	^$third-party
+||google.co.vi	# United States Virgin Islands	^
+||google.co.vi	# United States Virgin Islands	^$popup
+||google.co.vi	# United States Virgin Islands	^$third-party
+||google.com.vn	# Vietnam	^
+||google.com.vn	# Vietnam	^$popup
+||google.com.vn	# Vietnam	^$third-party
+||google.vu		# Vanuatu	^
+||google.vu		# Vanuatu	^$popup
+||google.vu		# Vanuatu	^$third-party
+||google.ws		# Samoa	^
+||google.ws		# Samoa	^$popup
+||google.ws		# Samoa	^$third-party
+||google.co.za	# South Africa	^
+||google.co.za	# South Africa	^$popup
+||google.co.za	# South Africa	^$third-party
+||google.co.zm	# Zambia	^
+||google.co.zm	# Zambia	^$popup
+||google.co.zm	# Zambia	^$third-party
+||google.co.zw	# Zimbabwe^
+||google.co.zw	# Zimbabwe^$popup
+||google.co.zw	# Zimbabwe^$third-party
