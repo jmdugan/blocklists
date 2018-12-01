@@ -1,0 +1,76 @@
+############################################
+# To Completely Block Twitter
+# Add these entries below to your hosts file
+#
+# Your hosts file Location:
+# Linux, Unix and Mac OS X  -> /etc/hosts
+# Windows XP, Vista, Windows 7, 8.0, 8.1, 10 ->  C:\WINDOWS\system32\drivers\etc\hosts
+# Windows 2000  -> C:\WINNT\system32\drivers\etc\hosts
+# Windows 98/ME ->  C:\WINDOWS\hosts 
+#
+# You can edit the hosts file with any text editor
+#
+# On Windows 7 and higher, the default AV security scan will try to remove the
+# twitter.com entry; you'll need to add an exception to tell the OS
+# to keep the block listing in the hosts file and not to remove it
+#
+############################################
+
+0.0.0.0 twitter.com
+0.0.0.0 twimg.com
+0.0.0.0 0.twitter.com
+0.0.0.0 about.twitter.com
+0.0.0.0 access.twitter.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 api-test.twitter.com
+0.0.0.0 api.twitter.com
+0.0.0.0 api2.twitter.com
+0.0.0.0 api4.twitter.com
+0.0.0.0 apps.twitter.com
+0.0.0.0 blog.twitter.com
+0.0.0.0 brand.twitter.com
+0.0.0.0 business.twitter.com
+0.0.0.0 calendar.twitter.com
+0.0.0.0 cards-dev.twitter.com
+0.0.0.0 cards.twitter.com
+0.0.0.0 content.twitter.com
+0.0.0.0 dev-about.twitter.com
+0.0.0.0 dev-blog.twitter.com
+0.0.0.0 dev-brand.twitter.com
+0.0.0.0 dev-business.twitter.com
+0.0.0.0 dev-horizon.twitter.com
+0.0.0.0 dev-jobs.twitter.com
+0.0.0.0 dev-marketing.twitter.com
+0.0.0.0 dev.twitter.com
+0.0.0.0 download.twitter.com
+0.0.0.0 election.twitter.com
+0.0.0.0 eng.twitter.com
+0.0.0.0 events.twitter.com
+0.0.0.0 horizon.twitter.com
+0.0.0.0 info.twitter.com
+0.0.0.0 jobs.twitter.com
+0.0.0.0 m.twitter.com
+0.0.0.0 mail.twitter.com
+0.0.0.0 marketing.twitter.com
+0.0.0.0 mobile.twitter.com
+0.0.0.0 mux.twitter.com
+0.0.0.0 mx.twitter.com
+0.0.0.0 mx1.twitter.com
+0.0.0.0 mx2.twitter.com
+0.0.0.0 mx3.twitter.com
+0.0.0.0 mx4.twitter.com
+0.0.0.0 pulse.twitter.com
+0.0.0.0 s.twitter.com
+0.0.0.0 search.twitter.com
+0.0.0.0 search2.twitter.com
+0.0.0.0 sites.twitter.com
+0.0.0.0 sms.twitter.com
+0.0.0.0 static.twitter.com
+0.0.0.0 support.twitter.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 td.twitter.com
+0.0.0.0 upload.twitter.com
+0.0.0.0 video.twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 www2.twitter.com
+0.0.0.0 www4.twitter.com
