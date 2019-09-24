@@ -314,3 +314,4 @@
 0.0.0.0 beta.facebook.com
 0.0.0.0 pl-pl.facebook.com
 0.0.0.0 nl-nl.facebook.com
+0.0.0.0 developers.facebook.com
