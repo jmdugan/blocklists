@@ -1,10 +1,4 @@
 [Adblock Plus 2.0]
-||whatsapp.com^
-||whatsapp.com^$popup
-||whatsapp.com^$third-party
-||www.whatsapp.com^
-||www.whatsapp.com^$popup
-||www.whatsapp.com^$third-party
 ||web.whatsapp.com^
 ||web.whatsapp.com^$popup
 ||web.whatsapp.com^$third-party
@@ -38,3 +32,9 @@
 ||whatsapp-cdn-shv-01-sjc2.fbcdn.net^
 ||whatsapp-cdn-shv-01-sjc2.fbcdn.net^$popup
 ||whatsapp-cdn-shv-01-sjc2.fbcdn.net^$third-party
+||whatsapp.com^
+||whatsapp.com^$popup
+||whatsapp.com^$third-party
+||www.whatsapp.com^
+||www.whatsapp.com^$popup
+||www.whatsapp.com^$third-party

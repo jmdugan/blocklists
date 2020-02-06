@@ -1,1 +1,13 @@
 [Adblock Plus 2.0]
+||fb.com^
+||fb.com^$popup
+||fb.com^$third-party
+||investor.fb.com^
+||investor.fb.com^$popup
+||investor.fb.com^$third-party
+||live.fb.com^
+||live.fb.com^$popup
+||live.fb.com^$third-party
+||newsroom.fb.com^
+||newsroom.fb.com^$popup
+||newsroom.fb.com^$third-party
