@@ -1,10 +1,4 @@
 [Adblock Plus 2.0]
-||Support.cloudflare.com^
-||Support.cloudflare.com^$popup
-||Support.cloudflare.com^$third-party
-||Www.cloudflare.com^
-||Www.cloudflare.com^$popup
-||Www.cloudflare.com^$third-party
 ||ajax.cloudflare.com^
 ||ajax.cloudflare.com^$popup
 ||ajax.cloudflare.com^$third-party

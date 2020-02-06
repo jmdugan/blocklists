@@ -1,77 +1,101 @@
-#URL shortening & Non-localized URLs
-0.0.0.0 	admob.com				# AdMob
-0.0.0.0 	adsense.com				# AdSense
-0.0.0.0 	adwords.com				# AdWords
-0.0.0.0 	android.com				# Android
-0.0.0.0 	blogger.com				# Blogger
-0.0.0.0 	blogspot.com			# Blogger
-0.0.0.0 	chromium.org			# Chromium
-0.0.0.0 	chrome.com				# Google Chrome
-0.0.0.0 	chromebook.com			# Chromebook
-0.0.0.0 	cobrasearch.com			# Google
-0.0.0.0 	com.google				# elgooG
-0.0.0.0 	feedburner.com			# FeedBurner
-0.0.0.0 	doubleclick.com			# DoubleClick
-0.0.0.0 	igoogle.com				# iGoogle
-0.0.0.0 	foofle.com				# Google
-0.0.0.0 	froogle.com				# Froogle
-0.0.0.0 	googleanalytics.com		# Google Analytics
-0.0.0.0 	google-analytics.com	# Google Analytics
-0.0.0.0 	googletagmanager.com	# Google Analytics
-0.0.0.0 	googlecode.com			# Google Code
-0.0.0.0 	googlesource.com		# Google Developer Source
-0.0.0.0 	googledrive.com			# Google Drive
-0.0.0.0 	googlearth.com			# Google Earth
-0.0.0.0 	googleearth.com			# Google Earth
-0.0.0.0 	googlemaps.com			# Google Maps
-0.0.0.0 	googlepagecreator.com	# Google Page Creator
-0.0.0.0 	googlescholar.com		# Google Scholar
-0.0.0.0 	gmail.com				# Gmail
-0.0.0.0 	googlemail.com			# Gmail
-0.0.0.0 	keyhole.com				# Keyhole
-0.0.0.0 	madewithcode.com		# Made with Code
-0.0.0.0 	panoramio.com			# Panoramio
-0.0.0.0 	picasa.com				# Picasa
-0.0.0.0 	sketchup.com			# SketchUp
-0.0.0.0 	urchin.com				# Google Analytics
-0.0.0.0 	waze.com				# Waze
-0.0.0.0 	youtube.com				# YouTube
-0.0.0.0 	youtu.be				# YouTube
-0.0.0.0 	yt.be					# YouTube
-0.0.0.0 	ytimg.com				# YouTube
-0.0.0.0 	youtubeeducation.com	# YouTube
-0.0.0.0 	youtube-nocookie.com	# YouTube
-0.0.0.0 	like.com				# Google
-0.0.0.0 	google.org				# Google.org
-0.0.0.0 	google.net				# Google
-0.0.0.0 	466453.com				# Google
-0.0.0.0 	gooogle.com				# Google
-0.0.0.0 	gogle.com				# Google
-0.0.0.0 	ggoogle.com				# Google
-0.0.0.0 	gogole.com				# Google
-0.0.0.0 	goolge.com				# Google
-0.0.0.0 	googel.com				# Google
-0.0.0.0 	duck.com				# Google
-0.0.0.0 	googlee.com				# Google
-0.0.0.0 	googil.com				# Google
-0.0.0.0 	googlr.com				# Google
-0.0.0.0 	googl.com				# Google
-0.0.0.0 	gmodules.com			# Google
-0.0.0.0 	googleadservices.com	# Google
-0.0.0.0 	googleapps.com			# Google Apps for Work
-0.0.0.0 	googleapis.com			# Google
-0.0.0.0 	goo.gl					# Google URL Shortener
-0.0.0.0 	googlebot.com			# Google
-0.0.0.0 	googlecommerce.com		# Google
-0.0.0.0 	googlesyndication.com	# Google
-0.0.0.0 	g.co					# Google
-0.0.0.0 	whatbrowser.org			# What Browser?
-0.0.0.0 	localhost.com			# Google
-0.0.0.0 	withgoogle.com			# Google
-0.0.0.0 	1e100.net				# Google Cookies
-0.0.0.0 	ggpht.com				# Google Photo
-0.0.0.0 	googleusercontent.com	# Google User Content
-0.0.0.0 	youtubegaming.com		# YouTube
-0.0.0.0 	firehunt.com			# Google
-0.0.0.0 	domains.google			# Google Domains
-0.0.0.0 	safebrowsing.googleapis.com
+0.0.0.0  1e100.net       # Google Cookies
+0.0.0.0  466453.com        # Google
+0.0.0.0  abc.xyz
+0.0.0.0  admob.com       # AdMob
+0.0.0.0  adsense.com       # AdSense
+0.0.0.0  adservice.google.com
+0.0.0.0  adwords.com       # AdWords
+0.0.0.0  android.com       # Android
+0.0.0.0  blogger.com       # Blogger
+0.0.0.0  blogspot.com      # Blogger
+0.0.0.0  chrome.com        # Google Chrome
+0.0.0.0  chromebook.com      # Chromebook
+0.0.0.0  chromium.org      # Chromium
+0.0.0.0  cobrasearch.com     # Google
+0.0.0.0  com.google        # elgooG
+0.0.0.0  domains.google      # Google Domains
+0.0.0.0  doubleclick.com     # DoubleClick
+0.0.0.0  duck.com        # Google
+0.0.0.0  feedburner.com      # FeedBurner
+0.0.0.0  firehunt.com      # Google
+0.0.0.0  foofle.com        # Google
+0.0.0.0  froogle.com       # Froogle
+0.0.0.0  g.co          # Google
+0.0.0.0  ggoogle.com       # Google
+0.0.0.0  ggpht.com       # Google Photo
+0.0.0.0  gmail.com       # Gmail
+0.0.0.0  gmodules.com      # Google
+0.0.0.0  gogle.com       # Google
+0.0.0.0  gogole.com        # Google
+0.0.0.0  goo.gl          # Google URL Shortener
+0.0.0.0  googel.com        # Google
+0.0.0.0  googil.com        # Google
+0.0.0.0  googl.com       # Google
+0.0.0.0  google-analytics.com  # Google Analytics
+0.0.0.0  google.net        # Google
+0.0.0.0  google.org        # Google.org
+0.0.0.0  googleadapis.l.google.com
+0.0.0.0  googleadservices.com  # Google
+0.0.0.0  googleanalytics.com   # Google Analytics
+0.0.0.0  googleapis.com      # Google
+0.0.0.0  googleapps.com      # Google Apps for Work
+0.0.0.0  googlearth.com      # Google Earth
+0.0.0.0  googleblog.com
+0.0.0.0  googlebot.com     # Google
+0.0.0.0  googlecode.com      # Google Code
+0.0.0.0  googlecommerce.com    # Google
+0.0.0.0  googledrive.com     # Google Drive
+0.0.0.0  googlee.com       # Google
+0.0.0.0  googleearth.com     # Google Earth
+0.0.0.0  googlegroups.com
+0.0.0.0  googlemail.com      # Gmail
+0.0.0.0  googlemaps.com      # Google Maps
+0.0.0.0  googlepagecreator.com # Google Page Creator
+0.0.0.0  googlescholar.com   # Google Scholar
+0.0.0.0  googlesource.com    # Google Developer Source
+0.0.0.0  googlesyndication.com # Google
+0.0.0.0  googletagmanager.com  # Google Analytics
+0.0.0.0  googletagservices.com
+0.0.0.0  googletranslate.com
+0.0.0.0  googleusercontent.com # Google User Content
+0.0.0.0  googleweblight.com
+0.0.0.0  googlezip.net
+0.0.0.0  googlr.com        # Google
+0.0.0.0  goolge.com        # Google
+0.0.0.0  gooogle.com       # Google
+0.0.0.0  gstatic.com
+0.0.0.0  gstatic.org
+0.0.0.0  gstaticadssl.l.google.com
+0.0.0.0  gv.com
+0.0.0.0  gvt1.com
+0.0.0.0  gvt2.com
+0.0.0.0  gvt3.com
+0.0.0.0  id.google.com
+0.0.0.0  igoogle.com       # iGoogle
+0.0.0.0  imasdk.googleapis.com
+0.0.0.0  keyhole.com       # Keyhole
+0.0.0.0  like.com        # Google
+0.0.0.0  localhost.com     # Google
+0.0.0.0  madewithcode.com    # Made with Code
+0.0.0.0  mail-ads.google.com
+0.0.0.0  metric.gstatic.com
+0.0.0.0  panoramio.com     # Panoramio
+0.0.0.0  picasa.com        # Picasa
+0.0.0.0  pki.google    # Google Certificate Authority
+0.0.0.0  plus.google.com     # Google Plus
+0.0.0.0  plus.l.google.com   # Google Plus
+0.0.0.0  plus.sandbox.google.com # Google Plus
+0.0.0.0  plusone.google.com      # Google Plus
+0.0.0.0  safebrowsing.googleapis.com
+0.0.0.0  sketchup.com      # SketchUp
+0.0.0.0  urchin.com        # Google Analytics
+0.0.0.0  waze.com        # Waze
+0.0.0.0  whatbrowser.org     # What Browser?
+0.0.0.0  withgoogle.com      # Google
+0.0.0.0  youtu.be        # YouTube
+0.0.0.0  youtube-nocookie.com  # YouTube
+0.0.0.0  youtube.com       # YouTube
+0.0.0.0  youtubeeducation.com  # YouTube
+0.0.0.0  youtubegaming.com   # YouTube
+0.0.0.0  yt.be         # YouTube
+0.0.0.0  ytimg.com       # YouTube
