@@ -6,8 +6,7 @@ for list in $(find corporations -type f \
 
 	ipv6="${list}.ipv6" && printf "creating ${ipv6}\n"
 
-	touch ${ipv6}
 	for ip in $(grep "0.0.0.0" ${list} | awk '{print $2}' | sort) ; do
 		printf "::1 ${ip}\n"
-	done >> ${ipv6}
+	done > ${ipv6}
 done
