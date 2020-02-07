@@ -1,207 +1,207 @@
 # Localized & regional domains
-0.0.0.0		google.com		# Worldwide (Original for the United States)	
-0.0.0.0		google.ac		# Ascension Island	
-0.0.0.0		google.ad		# Andorra	
-0.0.0.0		google.ae		# United Arab Emirates	
-0.0.0.0		google.com.af	# Afghanistan	
-0.0.0.0		google.com.ag	# Antigua and Barbuda	
-0.0.0.0		google.com.ai	# Anguilla	
-0.0.0.0		google.al		# Albania	
-0.0.0.0		google.am		# Armenia	
-0.0.0.0		google.co.ao	# Angola	
-0.0.0.0		google.com.ar	# Argentina	
-0.0.0.0		google.as		# American Samoa	
-0.0.0.0		google.at		# Austria	
-0.0.0.0		google.com.au	# Australia	
-0.0.0.0		google.az		# Azerbaijan	
-0.0.0.0		google.ba		# Bosnia and Herzegovina	
-0.0.0.0		google.com.bd	# Bangladesh	
-0.0.0.0		google.be		# Belgium	
-0.0.0.0		google.bf		# Burkina Faso	
-0.0.0.0		google.bg		# Bulgaria	
-0.0.0.0		google.com.bh	# Bahrain	
-0.0.0.0		google.bi		# Burundi	
-0.0.0.0		google.bj		# Benin	
-0.0.0.0		google.com.bn	# Brunei	
-0.0.0.0		google.com.bo	# Bolivia	
-0.0.0.0		google.com.br	# Brazil	
-0.0.0.0		google.bs		# Bahamas	
-0.0.0.0		google.bt		# Bhutan	
-0.0.0.0		google.co.bw	# Botswana	
-0.0.0.0		google.by		# Belarus
-0.0.0.0		google.com.bz	# Belize	
-0.0.0.0		google.ca		# Canada	
-0.0.0.0		google.com.kh	# Cambodia	
-0.0.0.0		google.cc		# Cocos (Keeling) Islands	
-0.0.0.0		google.cd		# Democratic Republic of the Congo	
-0.0.0.0		google.cf		# Central African Republic	
-0.0.0.0		google.cat		# Catalonia Catalan Countries	
-0.0.0.0		google.cg		# Republic of the Congo	
-0.0.0.0		google.ch		# Switzerland	
-0.0.0.0		google.ci		# Ivory Coast	
-0.0.0.0		google.co.ck	# Cook Islands	
-0.0.0.0		google.cl		# Chile	
-0.0.0.0		google.cm		# Cameroon	
-0.0.0.0		google.cn		# China	
-0.0.0.0		g.cn			# China	
-0.0.0.0		google.com.co	# Colombia	
-0.0.0.0		google.co.cr	# Costa Rica	
-0.0.0.0		google.com.cu	# Cuba	
-0.0.0.0		google.cv		# Cape Verde	
-0.0.0.0		google.com.cy	# Cyprus	
-0.0.0.0		google.cz		# Czech Republic	
-0.0.0.0		google.de		# Germany	
-0.0.0.0		google.dj		# Djibouti	
-0.0.0.0		google.dk		# Denmark	
-0.0.0.0		google.dm		# Dominica	
-0.0.0.0		google.com.do	# Dominican Republic	
-0.0.0.0		google.dz		# Algeria	
-0.0.0.0		google.com.ec	# Ecuador	
-0.0.0.0		google.ee		# Estonia	
-0.0.0.0		google.com.eg	# Egypt	
-0.0.0.0		google.es		# Spain	
-0.0.0.0		google.com.et	# Ethiopia	
-0.0.0.0		google.fi		# Finland	
-0.0.0.0		google.com.fj	# Fiji	
-0.0.0.0		google.fm		# Federated States of Micronesia	
-0.0.0.0		google.fr		# France	
-0.0.0.0		google.ga		# Gabon	
-0.0.0.0		google.ge		# Georgia	
-0.0.0.0		google.gf		# French Guiana	
-0.0.0.0		google.gg		# Guernsey	
-0.0.0.0		google.com.gh	# Ghana	
-0.0.0.0		google.com.gi	# Gibraltar	
-0.0.0.0		google.gl		# Greenland	
-0.0.0.0		google.gm		# Gambia	
-0.0.0.0		google.gp		# Guadeloupe	
-0.0.0.0		google.gr		# Greece	
-0.0.0.0		google.com.gt	# Guatemala	
-0.0.0.0		google.gy		# Guyana	
-0.0.0.0		google.com.hk	# Hong Kong	
-0.0.0.0		google.hn		# Honduras	
-0.0.0.0		google.hr		# Croatia	
-0.0.0.0		google.ht		# Haiti	
-0.0.0.0		google.hu		# Hungary	
-0.0.0.0		google.co.id	# Indonesia	
-0.0.0.0		google.iq		# Iraq	
-0.0.0.0		google.ie		# Ireland	
-0.0.0.0		google.co.il	# Israel	
-0.0.0.0		google.im		# Isle of Man	
-0.0.0.0		google.co.in	# India	
-0.0.0.0		google.io		# British Indian Ocean Territory	
-0.0.0.0		google.is		# Iceland	
-0.0.0.0		google.it		# Italy	
-0.0.0.0		google.je		# Jersey	
-0.0.0.0		google.com.jm	# Jamaica	
-0.0.0.0		google.jo		# Jordan	
-0.0.0.0		google.co.jp	# Japan	
-0.0.0.0		google.co.ke	# Kenya	
-0.0.0.0		google.ki		# Kiribati	
-0.0.0.0		google.kg		# Kyrgyzstan	
-0.0.0.0		google.co.kr	# South Korea	
-0.0.0.0		google.com.kw	# Kuwait	
-0.0.0.0		google.kz		# Kazakhstan	
-0.0.0.0		google.la		# Laos	
-0.0.0.0		google.com.lb	# Lebanon	
-0.0.0.0		google.com.lc	# Saint Lucia	
-0.0.0.0		google.li		# Liechtenstein	
-0.0.0.0		google.lk		# Sri Lanka	
-0.0.0.0		google.co.ls	# Lesotho	
-0.0.0.0		google.lt		# Lithuania	
-0.0.0.0		google.lu		# Luxembourg	
-0.0.0.0		google.lv		# Latvia	
-0.0.0.0		google.com.ly	# Libya	
-0.0.0.0		google.co.ma	# Morocco	
-0.0.0.0		google.md		# Moldova	
-0.0.0.0		google.me		# Montenegro	
-0.0.0.0		google.mg		# Madagascar	
-0.0.0.0		google.mk		# Macedonia	
-0.0.0.0		google.ml		# Mali	
-0.0.0.0		google.com.mm	# Myanmar	
-0.0.0.0		google.mn		# Mongolia	
-0.0.0.0		google.ms		# Montserrat	
-0.0.0.0		google.com.mt	# Malta	
-0.0.0.0		google.mu		# Mauritius	
-0.0.0.0		google.mv		# Maldives	
-0.0.0.0		google.mw		# Malawi	
-0.0.0.0		google.com.mx	# Mexico	
-0.0.0.0		google.com.my	# Malaysia	
-0.0.0.0		google.co.mz	# Mozambique	
-0.0.0.0		google.com.na	# Namibia	
-0.0.0.0		google.ne		# Niger	
-0.0.0.0		google.com.nf	# Norfolk Island	
-0.0.0.0		google.com.ng	# Nigeria	
-0.0.0.0		google.com.ni	# Nicaragua	
-0.0.0.0		google.nl		# Netherlands	
-0.0.0.0		google.no		# Norway	
-0.0.0.0		google.com.np	# Nepal	
-0.0.0.0		google.nr		# Nauru	
-0.0.0.0		google.nu		# Niue	
-0.0.0.0		google.co.nz	# New Zealand	
-0.0.0.0		google.com.om	# Oman	
-0.0.0.0		google.com.pk	# Pakistan	
-0.0.0.0		google.com.pa	# Panama	
-0.0.0.0		google.com.pe	# Peru	
-0.0.0.0		google.com.ph	# Philippines	
-0.0.0.0		google.pl		# Poland	
-0.0.0.0		google.com.pg	# Papua New Guinea	
-0.0.0.0		google.pn		# Pitcairn Islands	
-0.0.0.0		google.com.pr	# Puerto Rico	
-0.0.0.0		google.ps		# Palestine	
-0.0.0.0		google.pt		# Portugal	
-0.0.0.0		google.com.py	# Paraguay	
-0.0.0.0		google.com.qa	# Qatar	
-0.0.0.0		google.ro		# Romania	
-0.0.0.0		google.rs		# Serbia	
-0.0.0.0		google.ru		# Russia	
-0.0.0.0		google.rw		# Rwanda	
-0.0.0.0		google.com.sa	# Saudi Arabia	
-0.0.0.0		google.com.sb	# Solomon Islands	
-0.0.0.0		google.sc		# Seychelles	
-0.0.0.0		google.se		# Sweden	
-0.0.0.0		google.com.sg	# Singapore	
-0.0.0.0		google.sh		# Saint Helena, Ascension and Tristan da Cunha	
-0.0.0.0		google.si		# Slovenia	
-0.0.0.0		google.sk		# Slovakia	
-0.0.0.0		google.com.sl	# Sierra Leone	
-0.0.0.0		google.sn		# Senegal	
-0.0.0.0		google.sm		# San Marino	
-0.0.0.0		google.so		# Somalia	
-0.0.0.0		google.st		# São Tomé and Príncipe	
-0.0.0.0		google.sr		# Suriname	
-0.0.0.0		google.com.sv	# El Salvador	
-0.0.0.0		google.td		# Chad	
-0.0.0.0		google.tg		# Togo	
-0.0.0.0		google.co.th	# Thailand	
-0.0.0.0		google.com.tj	# Tajikistan	
-0.0.0.0		google.tk		# Tokelau	
-0.0.0.0		google.tl		# Timor-Leste	
-0.0.0.0		google.tm		# Turkmenistan	
-0.0.0.0		google.to		# Tonga	
-0.0.0.0		google.tn		# Tunisia	
-0.0.0.0		google.com.tr	# Turkey	
-0.0.0.0		google.tt		# Trinidad and Tobago	
-0.0.0.0		google.com.tw	# Taiwan	
-0.0.0.0		google.co.tz	# Tanzania	
-0.0.0.0		google.com.ua	# Ukraine	
-0.0.0.0		google.co.ug	# Uganda	
-0.0.0.0		google.co.uk	# United Kingdom	
-0.0.0.0		google.com		# United States	
-0.0.0.0		google.com.uy	# Uruguay	
-0.0.0.0		google.co.uz	# Uzbekistan	
-0.0.0.0		google.com.vc	# Saint Vincent and the Grenadines	
-0.0.0.0		google.co.ve	# Venezuela	
-0.0.0.0		google.vg		# British Virgin Islands	
-0.0.0.0		google.co.vi	# United States Virgin Islands	
-0.0.0.0		google.com.vn	# Vietnam	
-0.0.0.0		google.vu		# Vanuatu	
-0.0.0.0		google.ws		# Samoa	
-0.0.0.0		google.co.za	# South Africa	
-0.0.0.0		google.co.zm	# Zambia	
-0.0.0.0		google.co.zw	# Zimbabwe
-0.0.0.0		youtube.be
-0.0.0.0		youtube.co.uk
-0.0.0.0		youtube.de
-0.0.0.0		youtube.fr
-0.0.0.0		youtube.nl
-0.0.0.0		youtube.pl
+0.0.0.0  g.cn   # China
+0.0.0.0  google.ac  # Ascension Island
+0.0.0.0  google.ad  # Andorra
+0.0.0.0  google.ae  # United Arab Emirates
+0.0.0.0  google.al  # Albania
+0.0.0.0  google.am  # Armenia
+0.0.0.0  google.as  # American Samoa
+0.0.0.0  google.at  # Austria
+0.0.0.0  google.az  # Azerbaijan
+0.0.0.0  google.ba  # Bosnia and Herzegovina
+0.0.0.0  google.be  # Belgium
+0.0.0.0  google.bf  # Burkina Faso
+0.0.0.0  google.bg  # Bulgaria
+0.0.0.0  google.bi  # Burundi
+0.0.0.0  google.bj  # Benin
+0.0.0.0  google.bs  # Bahamas
+0.0.0.0  google.bt  # Bhutan
+0.0.0.0  google.by  # Belarus
+0.0.0.0  google.ca  # Canada
+0.0.0.0  google.cat  # Catalonia Catalan Countries
+0.0.0.0  google.cc  # Cocos (Keeling) Islands
+0.0.0.0  google.cd  # Democratic Republic of the Congo
+0.0.0.0  google.cf  # Central African Republic
+0.0.0.0  google.cg  # Republic of the Congo
+0.0.0.0  google.ch  # Switzerland
+0.0.0.0  google.ci  # Ivory Coast
+0.0.0.0  google.cl  # Chile
+0.0.0.0  google.cm  # Cameroon
+0.0.0.0  google.cn  # China
+0.0.0.0  google.co.ao # Angola
+0.0.0.0  google.co.bw # Botswana
+0.0.0.0  google.co.ck # Cook Islands
+0.0.0.0  google.co.cr # Costa Rica
+0.0.0.0  google.co.id # Indonesia
+0.0.0.0  google.co.il # Israel
+0.0.0.0  google.co.in # India
+0.0.0.0  google.co.jp # Japan
+0.0.0.0  google.co.ke # Kenya
+0.0.0.0  google.co.kr # South Korea
+0.0.0.0  google.co.ls # Lesotho
+0.0.0.0  google.co.ma # Morocco
+0.0.0.0  google.co.mz # Mozambique
+0.0.0.0  google.co.nz # New Zealand
+0.0.0.0  google.co.th # Thailand
+0.0.0.0  google.co.tz # Tanzania
+0.0.0.0  google.co.ug # Uganda
+0.0.0.0  google.co.uk # United Kingdom
+0.0.0.0  google.co.uz # Uzbekistan
+0.0.0.0  google.co.ve # Venezuela
+0.0.0.0  google.co.vi # United States Virgin Islands
+0.0.0.0  google.co.za # South Africa
+0.0.0.0  google.co.zm # Zambia
+0.0.0.0  google.co.zw # Zimbabwe
+0.0.0.0  google.com  # United States
+0.0.0.0  google.com  # Worldwide (Original for the United States)
+0.0.0.0  google.com.af # Afghanistan
+0.0.0.0  google.com.ag # Antigua and Barbuda
+0.0.0.0  google.com.ai # Anguilla
+0.0.0.0  google.com.ar # Argentina
+0.0.0.0  google.com.au # Australia
+0.0.0.0  google.com.bd # Bangladesh
+0.0.0.0  google.com.bh # Bahrain
+0.0.0.0  google.com.bn # Brunei
+0.0.0.0  google.com.bo # Bolivia
+0.0.0.0  google.com.br # Brazil
+0.0.0.0  google.com.bz # Belize
+0.0.0.0  google.com.co # Colombia
+0.0.0.0  google.com.cu # Cuba
+0.0.0.0  google.com.cy # Cyprus
+0.0.0.0  google.com.do # Dominican Republic
+0.0.0.0  google.com.ec # Ecuador
+0.0.0.0  google.com.eg # Egypt
+0.0.0.0  google.com.et # Ethiopia
+0.0.0.0  google.com.fj # Fiji
+0.0.0.0  google.com.gh # Ghana
+0.0.0.0  google.com.gi # Gibraltar
+0.0.0.0  google.com.gt # Guatemala
+0.0.0.0  google.com.hk # Hong Kong
+0.0.0.0  google.com.jm # Jamaica
+0.0.0.0  google.com.kh # Cambodia
+0.0.0.0  google.com.kw # Kuwait
+0.0.0.0  google.com.lb # Lebanon
+0.0.0.0  google.com.lc # Saint Lucia
+0.0.0.0  google.com.ly # Libya
+0.0.0.0  google.com.mm # Myanmar
+0.0.0.0  google.com.mt # Malta
+0.0.0.0  google.com.mx # Mexico
+0.0.0.0  google.com.my # Malaysia
+0.0.0.0  google.com.na # Namibia
+0.0.0.0  google.com.nf # Norfolk Island
+0.0.0.0  google.com.ng # Nigeria
+0.0.0.0  google.com.ni # Nicaragua
+0.0.0.0  google.com.np # Nepal
+0.0.0.0  google.com.om # Oman
+0.0.0.0  google.com.pa # Panama
+0.0.0.0  google.com.pe # Peru
+0.0.0.0  google.com.pg # Papua New Guinea
+0.0.0.0  google.com.ph # Philippines
+0.0.0.0  google.com.pk # Pakistan
+0.0.0.0  google.com.pr # Puerto Rico
+0.0.0.0  google.com.py # Paraguay
+0.0.0.0  google.com.qa # Qatar
+0.0.0.0  google.com.sa # Saudi Arabia
+0.0.0.0  google.com.sb # Solomon Islands
+0.0.0.0  google.com.sg # Singapore
+0.0.0.0  google.com.sl # Sierra Leone
+0.0.0.0  google.com.sv # El Salvador
+0.0.0.0  google.com.tj # Tajikistan
+0.0.0.0  google.com.tr # Turkey
+0.0.0.0  google.com.tw # Taiwan
+0.0.0.0  google.com.ua # Ukraine
+0.0.0.0  google.com.uy # Uruguay
+0.0.0.0  google.com.vc # Saint Vincent and the Grenadines
+0.0.0.0  google.com.vn # Vietnam
+0.0.0.0  google.cv  # Cape Verde
+0.0.0.0  google.cz  # Czech Republic
+0.0.0.0  google.de  # Germany
+0.0.0.0  google.dj  # Djibouti
+0.0.0.0  google.dk  # Denmark
+0.0.0.0  google.dm  # Dominica
+0.0.0.0  google.dz  # Algeria
+0.0.0.0  google.ee  # Estonia
+0.0.0.0  google.es  # Spain
+0.0.0.0  google.fi  # Finland
+0.0.0.0  google.fm  # Federated States of Micronesia
+0.0.0.0  google.fr  # France
+0.0.0.0  google.ga  # Gabon
+0.0.0.0  google.ge  # Georgia
+0.0.0.0  google.gf  # French Guiana
+0.0.0.0  google.gg  # Guernsey
+0.0.0.0  google.gl  # Greenland
+0.0.0.0  google.gm  # Gambia
+0.0.0.0  google.gp  # Guadeloupe
+0.0.0.0  google.gr  # Greece
+0.0.0.0  google.gy  # Guyana
+0.0.0.0  google.hn  # Honduras
+0.0.0.0  google.hr  # Croatia
+0.0.0.0  google.ht  # Haiti
+0.0.0.0  google.hu  # Hungary
+0.0.0.0  google.ie  # Ireland
+0.0.0.0  google.im  # Isle of Man
+0.0.0.0  google.io  # British Indian Ocean Territory
+0.0.0.0  google.iq  # Iraq
+0.0.0.0  google.is  # Iceland
+0.0.0.0  google.it  # Italy
+0.0.0.0  google.je  # Jersey
+0.0.0.0  google.jo  # Jordan
+0.0.0.0  google.kg  # Kyrgyzstan
+0.0.0.0  google.ki  # Kiribati
+0.0.0.0  google.kz  # Kazakhstan
+0.0.0.0  google.la  # Laos
+0.0.0.0  google.li  # Liechtenstein
+0.0.0.0  google.lk  # Sri Lanka
+0.0.0.0  google.lt  # Lithuania
+0.0.0.0  google.lu  # Luxembourg
+0.0.0.0  google.lv  # Latvia
+0.0.0.0  google.md  # Moldova
+0.0.0.0  google.me  # Montenegro
+0.0.0.0  google.mg  # Madagascar
+0.0.0.0  google.mk  # Macedonia
+0.0.0.0  google.ml  # Mali
+0.0.0.0  google.mn  # Mongolia
+0.0.0.0  google.ms  # Montserrat
+0.0.0.0  google.mu  # Mauritius
+0.0.0.0  google.mv  # Maldives
+0.0.0.0  google.mw  # Malawi
+0.0.0.0  google.ne  # Niger
+0.0.0.0  google.nl  # Netherlands
+0.0.0.0  google.no  # Norway
+0.0.0.0  google.nr  # Nauru
+0.0.0.0  google.nu  # Niue
+0.0.0.0  google.pl  # Poland
+0.0.0.0  google.pn  # Pitcairn Islands
+0.0.0.0  google.ps  # Palestine
+0.0.0.0  google.pt  # Portugal
+0.0.0.0  google.ro  # Romania
+0.0.0.0  google.rs  # Serbia
+0.0.0.0  google.ru  # Russia
+0.0.0.0  google.rw  # Rwanda
+0.0.0.0  google.sc  # Seychelles
+0.0.0.0  google.se  # Sweden
+0.0.0.0  google.sh  # Saint Helena, Ascension and Tristan da Cunha
+0.0.0.0  google.si  # Slovenia
+0.0.0.0  google.sk  # Slovakia
+0.0.0.0  google.sm  # San Marino
+0.0.0.0  google.sn  # Senegal
+0.0.0.0  google.so  # Somalia
+0.0.0.0  google.sr  # Suriname
+0.0.0.0  google.st  # SM-CM-#o TomM-CM-) and PrM-CM--ncipe
+0.0.0.0  google.td  # Chad
+0.0.0.0  google.tg  # Togo
+0.0.0.0  google.tk  # Tokelau
+0.0.0.0  google.tl  # Timor-Leste
+0.0.0.0  google.tm  # Turkmenistan
+0.0.0.0  google.tn  # Tunisia
+0.0.0.0  google.to  # Tonga
+0.0.0.0  google.tt  # Trinidad and Tobago
+0.0.0.0  google.vg  # British Virgin Islands
+0.0.0.0  google.vu  # Vanuatu
+0.0.0.0  google.ws  # Samoa
+0.0.0.0  youtube.be
+0.0.0.0  youtube.co.uk
+0.0.0.0  youtube.de
+0.0.0.0  youtube.fr
+0.0.0.0  youtube.nl
+0.0.0.0  youtube.pl
