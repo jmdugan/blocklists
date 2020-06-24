@@ -188,6 +188,9 @@
 ||learning.linkedin.com^
 ||learning.linkedin.com^$popup
 ||learning.linkedin.com^$third-party
+||licdn.com^
+||licdn.com^$popup
+||licdn.com^$third-party
 ||linkedin.com^
 ||linkedin.com^$popup
 ||linkedin.com^$third-party
