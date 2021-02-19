@@ -1,4 +1,7 @@
 [Adblock Plus 2.0]
+||engineering.fb.com^
+||engineering.fb.com^$popup
+||engineering.fb.com^$third-party
 ||fb.com^
 ||fb.com^$popup
 ||fb.com^$third-party
