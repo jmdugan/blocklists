@@ -44,6 +44,7 @@
 0.0.0.0 concierge.apple.com
 0.0.0.0 consultants.apple.com
 0.0.0.0 cooljobs.apple.com
+0.0.0.0 darksky.net
 0.0.0.0 deimos.apple.com
 0.0.0.0 deimos2.apple.com
 0.0.0.0 deimos3.apple.com
@@ -100,6 +101,7 @@
 0.0.0.0 manuals03.info.apple.com
 0.0.0.0 manuals04.info.apple.com
 0.0.0.0 maps.apple.com
+0.0.0.0 maps.darksky.net
 0.0.0.0 mapsconnect.apple.com
 0.0.0.0 meetingroom.apple.com
 0.0.0.0 mfi.apple.com
