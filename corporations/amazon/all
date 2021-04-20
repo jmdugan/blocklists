@@ -1,4 +1,6 @@
 0.0.0.0 amazon.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 amazon-adsystem.com
 0.0.0.0 www.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 cloudfront-labs.amazonaws.com
