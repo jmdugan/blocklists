@@ -1,11 +1,8 @@
-Catalog categorized lists of domain names people may want to block. Current focus is on corporations.
-
-Files in this project list the domain names of servers: one per line can be added to the local hosts file to block connections to servers on that domain name
+Categorized lists of domain names people may want to block. Current focus is on corporations.
 
 These domain names can be also added to [pi-hole](https://github.com/pi-hole/pi-hole) blocklists for network-wide effect.
 
-Hosts file Location:
-
+Hosts file locations:
 - Linux, Unix and macOS: `/etc/hosts`
 - Windows: `C:\WINDOWS\system32\drivers\etc\hosts`
 
