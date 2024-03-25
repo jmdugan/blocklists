@@ -280,6 +280,7 @@
 0.0.0.0 an.facebook.com			  
 0.0.0.0 api-read.facebook.com
 0.0.0.0 api.facebook.com
+0.0.0.0 api.giphy.com
 0.0.0.0 api.instagram.com
 0.0.0.0 api.whatsapp.com
 0.0.0.0 apps.facebook.com
@@ -860,6 +861,7 @@
 0.0.0.0 gamma.whatsapp.com
 0.0.0.0 generalelectric.m.facebook.com
 0.0.0.0 gingerhotels.m.facebook.com
+0.0.0.0 giphy.com
 0.0.0.0 gob.m.facebook.com
 0.0.0.0 google.m.facebook.com
 0.0.0.0 govtech.m.facebook.com
@@ -886,6 +888,7 @@
 0.0.0.0 huawei.facebook.com
 0.0.0.0 hunu.m.facebook.com
 0.0.0.0 hyperlapse.instagram.com
+0.0.0.0 i.giphy.com
 0.0.0.0 i.instagram.com
 0.0.0.0 id-id.facebook.com
 0.0.0.0 iictt.m.facebook.com
@@ -1106,6 +1109,7 @@
 0.0.0.0 kyivstar.m.facebook.com
 0.0.0.0 l.facebook.com
 0.0.0.0 l.instagram.com
+0.0.0.0 labs.giphy.com
 0.0.0.0 landmarkgroup.m.facebook.com
 0.0.0.0 latest.facebook.com
 0.0.0.0 leclerc.m.facebook.com
@@ -1191,7 +1195,13 @@
 0.0.0.0 media.fykz1-1.fna.whatsapp.net
 0.0.0.0 media.fyxd2-1.fna.whatsapp.net
 0.0.0.0 media.fzty2-1.fna.whatsapp.net
+0.0.0.0 media.giphy.com
 0.0.0.0 media.whatsapp.com
+0.0.0.0 media0.giphy.com
+0.0.0.0 media1.giphy.com
+0.0.0.0 media2.giphy.com
+0.0.0.0 media3.giphy.com
+0.0.0.0 media4.giphy.com
 0.0.0.0 meli.m.facebook.com
 0.0.0.0 messenger.com
 0.0.0.0 mia1.fbcdn.net
@@ -1273,6 +1283,8 @@
 0.0.0.0 origincache-xx-shv-09-prn2.fbcdn.net
 0.0.0.0 origincache-xx-shv-13-prn1.fbcdn.net
 0.0.0.0 our.intern.facebook.com
+0.0.0.0 outlook.giphy.com
+0.0.0.0 p.giphy.com
 0.0.0.0 pa-in.facebook.com
 0.0.0.0 pacific.facebook.com
 0.0.0.0 pernambucanas.m.facebook.com
@@ -1282,6 +1294,7 @@
 0.0.0.0 photos-b-ord.xx.fbcdn.net
 0.0.0.0 photos-b.xx.fbcdn.net
 0.0.0.0 photos-snc1.fbcdn.net
+0.0.0.0 pingback.giphy.com
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pl-pl.facebook.com
 0.0.0.0 platform.foursquare.com
@@ -1654,6 +1667,7 @@
 0.0.0.0 static.whatsapp.net
 0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 staticxx.facebook.com
+0.0.0.0 stickers.giphy.com
 0.0.0.0 stormberg.m.facebook.com
 0.0.0.0 streaming-graph.facebook.com
 0.0.0.0 sv-se.facebook.com
@@ -1672,11 +1686,14 @@
 0.0.0.0 translate-dev.whatsapp.com
 0.0.0.0 translate.whatsapp.com
 0.0.0.0 trocglobal.m.facebook.com
+0.0.0.0 tv.giphy.com
+0.0.0.0 twitter.giphy.com
 0.0.0.0 uk2group.m.facebook.com
 0.0.0.0 unicreativearts.m.facebook.com
 0.0.0.0 up.web.whatsapp.com
 0.0.0.0 upload-ec2.instagram.com
 0.0.0.0 upload.facebook.com
+0.0.0.0 upload.giphy.com
 0.0.0.0 upload.instagram.com
 0.0.0.0 ur-pk.facebook.com
 0.0.0.0 ustglobal.m.facebook.com
@@ -1802,6 +1819,7 @@
 0.0.0.0 www.facebook.fr
 0.0.0.0 www.fbcdn.com
 0.0.0.0 www.fbcdn.net
+0.0.0.0 www.giphy.com
 0.0.0.0 www.graph.facebook.com
 0.0.0.0 www.instagram.com
 0.0.0.0 www.login.facebook.com
