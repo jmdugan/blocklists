@@ -280,6 +280,7 @@
 ::1 an.facebook.com
 ::1 api-read.facebook.com
 ::1 api.facebook.com
+::1 api.giphy.com
 ::1 api.instagram.com
 ::1 api.whatsapp.com
 ::1 apps.facebook.com
@@ -860,6 +861,7 @@
 ::1 gamma.whatsapp.com
 ::1 generalelectric.m.facebook.com
 ::1 gingerhotels.m.facebook.com
+::1 giphy.com
 ::1 gob.m.facebook.com
 ::1 google.m.facebook.com
 ::1 govtech.m.facebook.com
@@ -886,6 +888,7 @@
 ::1 huawei.facebook.com
 ::1 hunu.m.facebook.com
 ::1 hyperlapse.instagram.com
+::1 i.giphy.com
 ::1 i.instagram.com
 ::1 id-id.facebook.com
 ::1 iictt.m.facebook.com
@@ -1106,6 +1109,7 @@
 ::1 kyivstar.m.facebook.com
 ::1 l.facebook.com
 ::1 l.instagram.com
+::1 labs.giphy.com
 ::1 landmarkgroup.m.facebook.com
 ::1 latest.facebook.com
 ::1 leclerc.m.facebook.com
@@ -1191,7 +1195,13 @@
 ::1 media.fykz1-1.fna.whatsapp.net
 ::1 media.fyxd2-1.fna.whatsapp.net
 ::1 media.fzty2-1.fna.whatsapp.net
+::1 media.giphy.com
 ::1 media.whatsapp.com
+::1 media0.giphy.com
+::1 media1.giphy.com
+::1 media2.giphy.com
+::1 media3.giphy.com
+::1 media4.giphy.com
 ::1 meli.m.facebook.com
 ::1 messenger.com
 ::1 mia1.fbcdn.net
@@ -1273,6 +1283,8 @@
 ::1 origincache-xx-shv-09-prn2.fbcdn.net
 ::1 origincache-xx-shv-13-prn1.fbcdn.net
 ::1 our.intern.facebook.com
+::1 outlook.giphy.com
+::1 p.giphy.com
 ::1 pa-in.facebook.com
 ::1 pacific.facebook.com
 ::1 pernambucanas.m.facebook.com
@@ -1282,6 +1294,7 @@
 ::1 photos-b-ord.xx.fbcdn.net
 ::1 photos-b.xx.fbcdn.net
 ::1 photos-snc1.fbcdn.net
+::1 pingback.giphy.com
 ::1 pixel.facebook.com
 ::1 pl-pl.facebook.com
 ::1 platform.foursquare.com
@@ -1654,6 +1667,7 @@
 ::1 static.whatsapp.net
 ::1 static.xx.fbcdn.net
 ::1 staticxx.facebook.com
+::1 stickers.giphy.com
 ::1 stormberg.m.facebook.com
 ::1 streaming-graph.facebook.com
 ::1 sv-se.facebook.com
@@ -1672,11 +1686,14 @@
 ::1 translate-dev.whatsapp.com
 ::1 translate.whatsapp.com
 ::1 trocglobal.m.facebook.com
+::1 tv.giphy.com
+::1 twitter.giphy.com
 ::1 uk2group.m.facebook.com
 ::1 unicreativearts.m.facebook.com
 ::1 up.web.whatsapp.com
 ::1 upload-ec2.instagram.com
 ::1 upload.facebook.com
+::1 upload.giphy.com
 ::1 upload.instagram.com
 ::1 ur-pk.facebook.com
 ::1 ustglobal.m.facebook.com
@@ -1802,6 +1819,7 @@
 ::1 www.facebook.fr
 ::1 www.fbcdn.com
 ::1 www.fbcdn.net
+::1 www.giphy.com
 ::1 www.graph.facebook.com
 ::1 www.instagram.com
 ::1 www.login.facebook.com
